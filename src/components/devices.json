@@ -1,0 +1,3921 @@
+[{
+    "_id": {
+      "$oid": "624e66c6adc0235835ebf326"
+    },
+    "model": "IOSv",
+    "device_family": "Cisco-IOS",
+    "softwareVersion": "15.7(3)M3",
+    "serialNo": "993UVUMXSL98HNBVQ32OG",
+    "assetTag": "function String() { [native code] }",
+    "name": "function String() { [native code] }",
+    "hostname": "AM-R6",
+    "ip_address": "10.16.16.175",
+    "status": "Unreachable (at 12:45:26)",
+    "systemMemory": " with 460017K/62464K",
+    "site": "DLL",
+    "location": "Bangalore",
+    "username": "cisco",
+    "password": "Y2lzY28=",
+    "mode": "ios",
+    "__v": 0,
+    "vendorId": {
+      "$oid": "6268fb7fe5d7fc49ff48bb00"
+    },
+    "customerId": {
+      "$oid": "629a1958ee726b3aee6e390a"
+    },
+    "region": "EU",
+    "configBackups": [
+      {
+        "backupConfigId": {
+          "$oid": "636bf900bf045fe326c8cc16"
+        },
+        "backupDate": {
+          "$date": {
+            "$numberLong": "1668020480207"
+          }
+        },
+        "_id": {
+          "$oid": "636bf900bf045fe326c8cc18"
+        }
+      },
+      {
+        "backupConfigId": {
+          "$oid": "636defccf2be041a88dbc277"
+        },
+        "backupDate": {
+          "$date": {
+            "$numberLong": "1668149196644"
+          }
+        },
+        "_id": {
+          "$oid": "636defccf2be041a88dbc279"
+        }
+      },
+      {
+        "backupConfigId": {
+          "$oid": "6371d3e1f2be041a88dbc368"
+        },
+        "backupDate": {
+          "$date": {
+            "$numberLong": "1668404193273"
+          }
+        },
+        "_id": {
+          "$oid": "6371d3e1f2be041a88dbc36a"
+        }
+      },
+      {
+        "backupConfigId": {
+          "$oid": "63732e3c77fedc4b2c0f0767"
+        },
+        "backupDate": {
+          "$date": {
+            "$numberLong": "1668492860967"
+          }
+        },
+        "_id": {
+          "$oid": "63732e3c77fedc4b2c0f0769"
+        }
+      },
+      {
+        "backupConfigId": {
+          "$oid": "63763300910070db8b712f86"
+        },
+        "backupDate": {
+          "$date": {
+            "$numberLong": "1668690688699"
+          }
+        },
+        "_id": {
+          "$oid": "63763300910070db8b712f88"
+        }
+      },
+      {
+        "backupConfigId": {
+          "$oid": "63809af69ccd69aeb3929e37"
+        },
+        "backupDate": {
+          "$date": {
+            "$numberLong": "1669372662338"
+          }
+        },
+        "_id": {
+          "$oid": "63809af69ccd69aeb3929e39"
+        }
+      },
+      {
+        "backupConfigId": {
+          "$oid": "6384708972fb0a920e73d5fa"
+        },
+        "backupDate": {
+          "$date": {
+            "$numberLong": "1669623945363"
+          }
+        },
+        "_id": {
+          "$oid": "6384708972fb0a920e73d5fc"
+        }
+      },
+      {
+        "backupConfigId": {
+          "$oid": "63865fbad39a115194f53c13"
+        },
+        "backupDate": {
+          "$date": {
+            "$numberLong": "1669750714900"
+          }
+        },
+        "_id": {
+          "$oid": "63865fbad39a115194f53c15"
+        }
+      },
+      {
+        "backupConfigId": {
+          "$oid": "6396d537839adcf4f14b5abf"
+        },
+        "backupDate": {
+          "$date": {
+            "$numberLong": "1670829367448"
+          }
+        },
+        "_id": {
+          "$oid": "6396d537839adcf4f14b5ac1"
+        }
+      },
+      {
+        "backupConfigId": {
+          "$oid": "639e2409e0a67328b49ece36"
+        },
+        "backupDate": {
+          "$date": {
+            "$numberLong": "1671308297203"
+          }
+        },
+        "_id": {
+          "$oid": "639e2409e0a67328b49ece38"
+        }
+      },
+      {
+        "backupConfigId": {
+          "$oid": "639e29c6e0a67328b49ecf18"
+        },
+        "backupDate": {
+          "$date": {
+            "$numberLong": "1671309767021"
+          }
+        },
+        "_id": {
+          "$oid": "639e29c7e0a67328b49ecf1a"
+        }
+      },
+      {
+        "backupConfigId": {
+          "$oid": "639f784ce0a67328b49ed511"
+        },
+        "backupDate": {
+          "$date": {
+            "$numberLong": "1671395404385"
+          }
+        },
+        "_id": {
+          "$oid": "639f784ce0a67328b49ed513"
+        }
+      },
+      {
+        "backupConfigId": {
+          "$oid": "63a0c9c838b63edf57cc8638"
+        },
+        "backupDate": {
+          "$date": {
+            "$numberLong": "1671481800456"
+          }
+        },
+        "_id": {
+          "$oid": "63a0c9c838b63edf57cc863a"
+        }
+      },
+      {
+        "backupConfigId": {
+          "$oid": "63a261a5ccfcd60f6a22855f"
+        },
+        "backupDate": {
+          "$date": {
+            "$numberLong": "1671586213510"
+          }
+        },
+        "_id": {
+          "$oid": "63a261a5ccfcd60f6a228561"
+        }
+      },
+      {
+        "backupConfigId": {
+          "$oid": "63a3b31dd7810e5318be4951"
+        },
+        "backupDate": {
+          "$date": {
+            "$numberLong": "1671672605160"
+          }
+        },
+        "_id": {
+          "$oid": "63a3b31dd7810e5318be4953"
+        }
+      }
+    ],
+    "ios": "flash0:/vios-adventerprisek9-m",
+    "lastAccessAttempt": {
+      "$date": {
+        "$numberLong": "1670229510934"
+      }
+    },
+    "lastAccessSuccessful": {
+      "$date": {
+        "$numberLong": "1670229510934"
+      }
+    },
+    "lastSuccessfulComplianceCheck": {
+      "$date": {
+        "$numberLong": "1671650200616"
+      }
+    },
+    "complianceReportId": {
+      "$oid": "639d9098d05733333b25883d"
+    }
+  },{
+    "_id": {
+      "$oid": "624e66c6adc0235835ebf32b"
+    },
+    "model": "CSR1000V",
+    "device_family": "Viptela",
+    "softwareVersion": "16.12.5",
+    "serialNo": "964IPX0VXCJ",
+    "assetTag": "Bengaluru",
+    "name": "Device",
+    "hostname": "IND-BNGR-EDGE02",
+    "ip_address": "10.192.254.187",
+    "status": "Unreachable (at 12:46:10)",
+    "systemMemory": "2080123K/3075K",
+    "site": "DLL",
+    "location": "Bangalore",
+    "username": "admin",
+    "password": "YWRtaW4=",
+    "mode": "netmiko",
+    "__v": 0,
+    "vendorId": {
+      "$oid": "6268fb7fe5d7fc49ff48bb05"
+    },
+    "customerId": {
+      "$oid": "629a1958ee726b3aee6e390a"
+    },
+    "region": "EU",
+    "configBackups": [
+      {
+        "backupConfigId": {
+          "$oid": "636bfa92bf045fe326c8cc2e"
+        },
+        "backupDate": {
+          "$date": {
+            "$numberLong": "1668020882204"
+          }
+        },
+        "_id": {
+          "$oid": "636bfa92bf045fe326c8cc30"
+        }
+      },
+      {
+        "backupConfigId": {
+          "$oid": "636def90f2be041a88dbc259"
+        },
+        "backupDate": {
+          "$date": {
+            "$numberLong": "1668149136678"
+          }
+        },
+        "_id": {
+          "$oid": "636def90f2be041a88dbc25b"
+        }
+      },
+      {
+        "backupConfigId": {
+          "$oid": "6371d3f6f2be041a88dbc38c"
+        },
+        "backupDate": {
+          "$date": {
+            "$numberLong": "1668404214554"
+          }
+        },
+        "_id": {
+          "$oid": "6371d3f6f2be041a88dbc38e"
+        }
+      },
+      {
+        "backupConfigId": {
+          "$oid": "63732e5177fedc4b2c0f0791"
+        },
+        "backupDate": {
+          "$date": {
+            "$numberLong": "1668492881845"
+          }
+        },
+        "_id": {
+          "$oid": "63732e5177fedc4b2c0f0793"
+        }
+      },
+      {
+        "backupConfigId": {
+          "$oid": "63763310910070db8b712fb6"
+        },
+        "backupDate": {
+          "$date": {
+            "$numberLong": "1668690704359"
+          }
+        },
+        "_id": {
+          "$oid": "63763310910070db8b712fb8"
+        }
+      },
+      {
+        "backupConfigId": {
+          "$oid": "63809b049ccd69aeb3929e6d"
+        },
+        "backupDate": {
+          "$date": {
+            "$numberLong": "1669372676990"
+          }
+        },
+        "_id": {
+          "$oid": "63809b049ccd69aeb3929e6f"
+        }
+      },
+      {
+        "backupConfigId": {
+          "$oid": "6384709872fb0a920e73d636"
+        },
+        "backupDate": {
+          "$date": {
+            "$numberLong": "1669623960552"
+          }
+        },
+        "_id": {
+          "$oid": "6384709872fb0a920e73d638"
+        }
+      },
+      {
+        "backupConfigId": {
+          "$oid": "63865fc9d39a115194f53c55"
+        },
+        "backupDate": {
+          "$date": {
+            "$numberLong": "1669750729461"
+          }
+        },
+        "_id": {
+          "$oid": "63865fc9d39a115194f53c57"
+        }
+      },
+      {
+        "backupConfigId": {
+          "$oid": "6396d54a839adcf4f14b5b07"
+        },
+        "backupDate": {
+          "$date": {
+            "$numberLong": "1670829386562"
+          }
+        },
+        "_id": {
+          "$oid": "6396d54a839adcf4f14b5b09"
+        }
+      },
+      {
+        "backupConfigId": {
+          "$oid": "639e241ce0a67328b49ece84"
+        },
+        "backupDate": {
+          "$date": {
+            "$numberLong": "1671308316182"
+          }
+        },
+        "_id": {
+          "$oid": "639e241ce0a67328b49ece86"
+        }
+      },
+      {
+        "backupConfigId": {
+          "$oid": "639e29dde0a67328b49ecf6c"
+        },
+        "backupDate": {
+          "$date": {
+            "$numberLong": "1671309789493"
+          }
+        },
+        "_id": {
+          "$oid": "639e29dde0a67328b49ecf6e"
+        }
+      },
+      {
+        "backupConfigId": {
+          "$oid": "639f7862e0a67328b49ed586"
+        },
+        "backupDate": {
+          "$date": {
+            "$numberLong": "1671395426729"
+          }
+        },
+        "_id": {
+          "$oid": "639f7862e0a67328b49ed588"
+        }
+      },
+      {
+        "backupConfigId": {
+          "$oid": "63a0c9e438b63edf57cc86b4"
+        },
+        "backupDate": {
+          "$date": {
+            "$numberLong": "1671481828787"
+          }
+        },
+        "_id": {
+          "$oid": "63a0c9e438b63edf57cc86b6"
+        }
+      },
+      {
+        "backupConfigId": {
+          "$oid": "63a261b8ccfcd60f6a2285e0"
+        },
+        "backupDate": {
+          "$date": {
+            "$numberLong": "1671586232402"
+          }
+        },
+        "_id": {
+          "$oid": "63a261b8ccfcd60f6a2285e2"
+        }
+      },
+      {
+        "backupConfigId": {
+          "$oid": "63a3b330d7810e5318be49d8"
+        },
+        "backupDate": {
+          "$date": {
+            "$numberLong": "1671672624997"
+          }
+        },
+        "_id": {
+          "$oid": "63a3b330d7810e5318be49da"
+        }
+      }
+    ],
+    "lastAccessAttempt": {
+      "$date": {
+        "$numberLong": "1670229465579"
+      }
+    },
+    "ios": "bootflash:packages.conf",
+    "lastAccessSuccessful": {
+      "$date": {
+        "$numberLong": "1670229465579"
+      }
+    }
+  },{
+    "_id": {
+      "$oid": "624e66c6adc0235835ebf327"
+    },
+    "model": "CSR1000V",
+    "device_family": "Viptela",
+    "softwareVersion": "16.12.5",
+    "serialNo": "9V5I79LX7IF",
+    "assetTag": "Bengaluru",
+    "name": "Device",
+    "hostname": "IND-BNGR-EDGE01",
+    "ip_address": "10.16.16.186",
+    "status": "Unreachable (at 12:45:30)",
+    "systemMemory": "2080123K/3075K",
+    "site": "DLL",
+    "location": "Bangalore",
+    "username": "admin",
+    "password": "YWRtaW4=",
+    "mode": "netmiko",
+    "__v": 0,
+    "vendorId": {
+      "$oid": "6268fb7fe5d7fc49ff48bb05"
+    },
+    "customerId": {
+      "$oid": "629a1958ee726b3aee6e390a"
+    },
+    "region": "EU",
+    "configBackups": [
+      {
+        "backupConfigId": {
+          "$oid": "636bfa94bf045fe326c8cc32"
+        },
+        "backupDate": {
+          "$date": {
+            "$numberLong": "1668020884263"
+          }
+        },
+        "_id": {
+          "$oid": "636bfa94bf045fe326c8cc34"
+        }
+      },
+      {
+        "backupConfigId": {
+          "$oid": "636def92f2be041a88dbc25e"
+        },
+        "backupDate": {
+          "$date": {
+            "$numberLong": "1668149138275"
+          }
+        },
+        "_id": {
+          "$oid": "636def92f2be041a88dbc260"
+        }
+      },
+      {
+        "backupConfigId": {
+          "$oid": "6371d3f8f2be041a88dbc392"
+        },
+        "backupDate": {
+          "$date": {
+            "$numberLong": "1668404216547"
+          }
+        },
+        "_id": {
+          "$oid": "6371d3f8f2be041a88dbc394"
+        }
+      },
+      {
+        "backupConfigId": {
+          "$oid": "63732e5377fedc4b2c0f0798"
+        },
+        "backupDate": {
+          "$date": {
+            "$numberLong": "1668492883529"
+          }
+        },
+        "_id": {
+          "$oid": "63732e5377fedc4b2c0f079a"
+        }
+      },
+      {
+        "backupConfigId": {
+          "$oid": "63763311910070db8b712fbe"
+        },
+        "backupDate": {
+          "$date": {
+            "$numberLong": "1668690705638"
+          }
+        },
+        "_id": {
+          "$oid": "63763311910070db8b712fc0"
+        }
+      },
+      {
+        "backupConfigId": {
+          "$oid": "63809b069ccd69aeb3929e76"
+        },
+        "backupDate": {
+          "$date": {
+            "$numberLong": "1669372678541"
+          }
+        },
+        "_id": {
+          "$oid": "63809b069ccd69aeb3929e78"
+        }
+      },
+      {
+        "backupConfigId": {
+          "$oid": "6384709972fb0a920e73d640"
+        },
+        "backupDate": {
+          "$date": {
+            "$numberLong": "1669623961892"
+          }
+        },
+        "_id": {
+          "$oid": "6384709972fb0a920e73d642"
+        }
+      },
+      {
+        "backupConfigId": {
+          "$oid": "63865fcad39a115194f53c60"
+        },
+        "backupDate": {
+          "$date": {
+            "$numberLong": "1669750731000"
+          }
+        },
+        "_id": {
+          "$oid": "63865fcbd39a115194f53c62"
+        }
+      },
+      {
+        "backupConfigId": {
+          "$oid": "6396d54c839adcf4f14b5b13"
+        },
+        "backupDate": {
+          "$date": {
+            "$numberLong": "1670829388094"
+          }
+        },
+        "_id": {
+          "$oid": "6396d54c839adcf4f14b5b15"
+        }
+      },
+      {
+        "backupConfigId": {
+          "$oid": "639e241de0a67328b49ece91"
+        },
+        "backupDate": {
+          "$date": {
+            "$numberLong": "1671308317815"
+          }
+        },
+        "_id": {
+          "$oid": "639e241de0a67328b49ece93"
+        }
+      },
+      {
+        "backupConfigId": {
+          "$oid": "639e29dfe0a67328b49ecf7a"
+        },
+        "backupDate": {
+          "$date": {
+            "$numberLong": "1671309791174"
+          }
+        },
+        "_id": {
+          "$oid": "639e29dfe0a67328b49ecf7c"
+        }
+      },
+      {
+        "backupConfigId": {
+          "$oid": "639f7864e0a67328b49ed595"
+        },
+        "backupDate": {
+          "$date": {
+            "$numberLong": "1671395428310"
+          }
+        },
+        "_id": {
+          "$oid": "639f7864e0a67328b49ed597"
+        }
+      },
+      {
+        "backupConfigId": {
+          "$oid": "63a0c9e638b63edf57cc86c4"
+        },
+        "backupDate": {
+          "$date": {
+            "$numberLong": "1671481830722"
+          }
+        },
+        "_id": {
+          "$oid": "63a0c9e638b63edf57cc86c6"
+        }
+      },
+      {
+        "backupConfigId": {
+          "$oid": "63a261b9ccfcd60f6a2285f1"
+        },
+        "backupDate": {
+          "$date": {
+            "$numberLong": "1671586233758"
+          }
+        },
+        "_id": {
+          "$oid": "63a261b9ccfcd60f6a2285f3"
+        }
+      },
+      {
+        "backupConfigId": {
+          "$oid": "63a3b332d7810e5318be49ea"
+        },
+        "backupDate": {
+          "$date": {
+            "$numberLong": "1671672626778"
+          }
+        },
+        "_id": {
+          "$oid": "63a3b332d7810e5318be49ec"
+        }
+      }
+    ],
+    "lastAccessAttempt": {
+      "$date": {
+        "$numberLong": "1670229465587"
+      }
+    },
+    "ios": "bootflash:packages.conf",
+    "lastAccessSuccessful": {
+      "$date": {
+        "$numberLong": "1670229465587"
+      }
+    }
+  },{
+    "_id": {
+      "$oid": "624e66c6adc0235835ebf329"
+    },
+    "model": "IOSv",
+    "device_family": "Cisco-IOS",
+    "softwareVersion": "15.2(CML_NIGHTLY_20180619)FLO_DSGS7",
+    "serialNo": "902S7B1VD6N",
+    "assetTag": "function String() { [native code] }",
+    "name": "function String() { [native code] }",
+    "hostname": "ger-corsw01",
+    "ip_address": "10.16.16.78",
+    "status": "Unreachable (at 12:46:02)",
+    "systemMemory": "574713K/209920K",
+    "site": "DLL",
+    "location": "Bangalore",
+    "username": "cisco",
+    "password": "Y2lzY28=",
+    "mode": "netmiko",
+    "__v": 0,
+    "vendorId": {
+      "$oid": "6268fb7fe5d7fc49ff48bb02"
+    },
+    "customerId": {
+      "$oid": "629a1958ee726b3aee6e390a"
+    },
+    "region": "EU",
+    "configBackups": [
+      {
+        "backupConfigId": {
+          "$oid": "636b51beabecf3f743d8cf32"
+        },
+        "backupDate": {
+          "$date": {
+            "$numberLong": "1667977662989"
+          }
+        },
+        "_id": {
+          "$oid": "636b51beabecf3f743d8cf34"
+        }
+      },
+      {
+        "backupConfigId": {
+          "$oid": "636b51c4abecf3f743d8cf45"
+        },
+        "backupDate": {
+          "$date": {
+            "$numberLong": "1667977668251"
+          }
+        },
+        "_id": {
+          "$oid": "636b51c4abecf3f743d8cf47"
+        }
+      },
+      {
+        "backupConfigId": {
+          "$oid": "636bc76abe8d22e33cc4b4d0"
+        },
+        "backupDate": {
+          "$date": {
+            "$numberLong": "1668007786375"
+          }
+        },
+        "_id": {
+          "$oid": "636bc76abe8d22e33cc4b4d2"
+        }
+      },
+      {
+        "backupConfigId": {
+          "$oid": "636bf75fbf045fe326c8cbf4"
+        },
+        "backupDate": {
+          "$date": {
+            "$numberLong": "1668020064194"
+          }
+        },
+        "_id": {
+          "$oid": "636bf760bf045fe326c8cbf6"
+        }
+      },
+      {
+        "backupConfigId": {
+          "$oid": "636deff5f2be041a88dbc28b"
+        },
+        "backupDate": {
+          "$date": {
+            "$numberLong": "1668149237651"
+          }
+        },
+        "_id": {
+          "$oid": "636deff5f2be041a88dbc28d"
+        }
+      },
+      {
+        "backupConfigId": {
+          "$oid": "6371d2e6f2be041a88dbc2b1"
+        },
+        "backupDate": {
+          "$date": {
+            "$numberLong": "1668403942973"
+          }
+        },
+        "_id": {
+          "$oid": "6371d2e6f2be041a88dbc2b3"
+        }
+      },
+      {
+        "backupConfigId": {
+          "$oid": "6371d2fff2be041a88dbc2db"
+        },
+        "backupDate": {
+          "$date": {
+            "$numberLong": "1668403967668"
+          }
+        },
+        "_id": {
+          "$oid": "6371d2fff2be041a88dbc2dd"
+        }
+      },
+      {
+        "backupConfigId": {
+          "$oid": "6371d318f2be041a88dbc309"
+        },
+        "backupDate": {
+          "$date": {
+            "$numberLong": "1668403992501"
+          }
+        },
+        "_id": {
+          "$oid": "6371d318f2be041a88dbc30b"
+        }
+      },
+      {
+        "backupConfigId": {
+          "$oid": "6371d3cbf2be041a88dbc333"
+        },
+        "backupDate": {
+          "$date": {
+            "$numberLong": "1668404171461"
+          }
+        },
+        "_id": {
+          "$oid": "6371d3cbf2be041a88dbc335"
+        }
+      },
+      {
+        "backupConfigId": {
+          "$oid": "63732e2777fedc4b2c0f073d"
+        },
+        "backupDate": {
+          "$date": {
+            "$numberLong": "1668492839488"
+          }
+        },
+        "_id": {
+          "$oid": "63732e2777fedc4b2c0f073f"
+        }
+      },
+      {
+        "backupConfigId": {
+          "$oid": "637632ea910070db8b712f58"
+        },
+        "backupDate": {
+          "$date": {
+            "$numberLong": "1668690667016"
+          }
+        },
+        "_id": {
+          "$oid": "637632eb910070db8b712f5a"
+        }
+      },
+      {
+        "backupConfigId": {
+          "$oid": "63809ae19ccd69aeb3929e05"
+        },
+        "backupDate": {
+          "$date": {
+            "$numberLong": "1669372641584"
+          }
+        },
+        "_id": {
+          "$oid": "63809ae19ccd69aeb3929e07"
+        }
+      },
+      {
+        "backupConfigId": {
+          "$oid": "6384707372fb0a920e73d5c4"
+        },
+        "backupDate": {
+          "$date": {
+            "$numberLong": "1669623923604"
+          }
+        },
+        "_id": {
+          "$oid": "6384707372fb0a920e73d5c6"
+        }
+      },
+      {
+        "backupConfigId": {
+          "$oid": "63865fa5d39a115194f53bd9"
+        },
+        "backupDate": {
+          "$date": {
+            "$numberLong": "1669750693910"
+          }
+        },
+        "_id": {
+          "$oid": "63865fa5d39a115194f53bdb"
+        }
+      },
+      {
+        "backupConfigId": {
+          "$oid": "6396d524839adcf4f14b5a8c"
+        },
+        "backupDate": {
+          "$date": {
+            "$numberLong": "1670829348423"
+          }
+        },
+        "_id": {
+          "$oid": "6396d524839adcf4f14b5a8e"
+        }
+      },
+      {
+        "backupConfigId": {
+          "$oid": "639e23f7e0a67328b49ece00"
+        },
+        "backupDate": {
+          "$date": {
+            "$numberLong": "1671308279092"
+          }
+        },
+        "_id": {
+          "$oid": "639e23f7e0a67328b49ece02"
+        }
+      },
+      {
+        "backupConfigId": {
+          "$oid": "639e29ace0a67328b49eced4"
+        },
+        "backupDate": {
+          "$date": {
+            "$numberLong": "1671309740730"
+          }
+        },
+        "_id": {
+          "$oid": "639e29ace0a67328b49eced6"
+        }
+      },
+      {
+        "backupConfigId": {
+          "$oid": "639f7836e0a67328b49ed4c8"
+        },
+        "backupDate": {
+          "$date": {
+            "$numberLong": "1671395382484"
+          }
+        },
+        "_id": {
+          "$oid": "639f7836e0a67328b49ed4ca"
+        }
+      },
+      {
+        "backupConfigId": {
+          "$oid": "63a0c9af38b63edf57cc85ec"
+        },
+        "backupDate": {
+          "$date": {
+            "$numberLong": "1671481775181"
+          }
+        },
+        "_id": {
+          "$oid": "63a0c9af38b63edf57cc85ee"
+        }
+      },
+      {
+        "backupConfigId": {
+          "$oid": "63a2618bccfcd60f6a22850e"
+        },
+        "backupDate": {
+          "$date": {
+            "$numberLong": "1671586187929"
+          }
+        },
+        "_id": {
+          "$oid": "63a2618bccfcd60f6a228510"
+        }
+      },
+      {
+        "backupConfigId": {
+          "$oid": "63a3b304d7810e5318be48fc"
+        },
+        "backupDate": {
+          "$date": {
+            "$numberLong": "1671672580876"
+          }
+        },
+        "_id": {
+          "$oid": "63a3b304d7810e5318be48fe"
+        }
+      }
+    ],
+    "ios": "flash0:/vios_l2-adventerprisek9-m",
+    "lastAccessAttempt": {
+      "$date": {
+        "$numberLong": "1670229465604"
+      }
+    },
+    "lastAccessSuccessful": {
+      "$date": {
+        "$numberLong": "1670229465604"
+      }
+    },
+    "lastSuccessfulComplianceCheck": {
+      "$date": {
+        "$numberLong": "1671650203876"
+      }
+    },
+    "complianceReportId": {
+      "$oid": "639d7d2dd05733333b1109b0"
+    }
+  },{
+    "_id": {
+      "$oid": "624e66c6adc0235835ebf32d"
+    },
+    "model": "model",
+    "device_family": "Viptela",
+    "softwareVersion": "",
+    "serialNo": "xxxxxxxxxxxx",
+    "assetTag": "Bengaluru",
+    "name": "Device",
+    "hostname": "cEdge4",
+    "ip_address": "10.16.16.189",
+    "status": "Unreachable (at 12:45:38)",
+    "systemMemory": "129.0M",
+    "site": "DLL",
+    "location": "Bangalore",
+    "username": "admin",
+    "password": "YWRtaW4=",
+    "mode": "netmiko",
+    "__v": 0,
+    "vendorId": {
+      "$oid": "6268fb7fe5d7fc49ff48bb05"
+    },
+    "customerId": {
+      "$oid": "629a1958ee726b3aee6e390a"
+    },
+    "region": "EU",
+    "configBackups": [
+      {
+        "backupConfigId": {
+          "$oid": "636bfa97bf045fe326c8cc36"
+        },
+        "backupDate": {
+          "$date": {
+            "$numberLong": "1668020887694"
+          }
+        },
+        "_id": {
+          "$oid": "636bfa97bf045fe326c8cc38"
+        }
+      },
+      {
+        "backupConfigId": {
+          "$oid": "636def95f2be041a88dbc263"
+        },
+        "backupDate": {
+          "$date": {
+            "$numberLong": "1668149141548"
+          }
+        },
+        "_id": {
+          "$oid": "636def95f2be041a88dbc265"
+        }
+      },
+      {
+        "backupConfigId": {
+          "$oid": "6371d3fbf2be041a88dbc398"
+        },
+        "backupDate": {
+          "$date": {
+            "$numberLong": "1668404220015"
+          }
+        },
+        "_id": {
+          "$oid": "6371d3fcf2be041a88dbc39a"
+        }
+      },
+      {
+        "backupConfigId": {
+          "$oid": "63732e5677fedc4b2c0f079f"
+        },
+        "backupDate": {
+          "$date": {
+            "$numberLong": "1668492887035"
+          }
+        },
+        "_id": {
+          "$oid": "63732e5777fedc4b2c0f07a1"
+        }
+      },
+      {
+        "backupConfigId": {
+          "$oid": "63763315910070db8b712fc6"
+        },
+        "backupDate": {
+          "$date": {
+            "$numberLong": "1668690709093"
+          }
+        },
+        "_id": {
+          "$oid": "63763315910070db8b712fc8"
+        }
+      },
+      {
+        "backupConfigId": {
+          "$oid": "63809b0a9ccd69aeb3929e7f"
+        },
+        "backupDate": {
+          "$date": {
+            "$numberLong": "1669372682040"
+          }
+        },
+        "_id": {
+          "$oid": "63809b0a9ccd69aeb3929e81"
+        }
+      },
+      {
+        "backupConfigId": {
+          "$oid": "6384709d72fb0a920e73d64a"
+        },
+        "backupDate": {
+          "$date": {
+            "$numberLong": "1669623965374"
+          }
+        },
+        "_id": {
+          "$oid": "6384709d72fb0a920e73d64c"
+        }
+      },
+      {
+        "backupConfigId": {
+          "$oid": "63865fced39a115194f53c6b"
+        },
+        "backupDate": {
+          "$date": {
+            "$numberLong": "1669750734055"
+          }
+        },
+        "_id": {
+          "$oid": "63865fced39a115194f53c6d"
+        }
+      },
+      {
+        "backupConfigId": {
+          "$oid": "6396d54f839adcf4f14b5b1f"
+        },
+        "backupDate": {
+          "$date": {
+            "$numberLong": "1670829391447"
+          }
+        },
+        "_id": {
+          "$oid": "6396d54f839adcf4f14b5b21"
+        }
+      },
+      {
+        "backupConfigId": {
+          "$oid": "639e2421e0a67328b49ece9e"
+        },
+        "backupDate": {
+          "$date": {
+            "$numberLong": "1671308321063"
+          }
+        },
+        "_id": {
+          "$oid": "639e2421e0a67328b49ecea0"
+        }
+      },
+      {
+        "backupConfigId": {
+          "$oid": "639e29e2e0a67328b49ecf88"
+        },
+        "backupDate": {
+          "$date": {
+            "$numberLong": "1671309794681"
+          }
+        },
+        "_id": {
+          "$oid": "639e29e2e0a67328b49ecf8a"
+        }
+      },
+      {
+        "backupConfigId": {
+          "$oid": "639f7867e0a67328b49ed5a4"
+        },
+        "backupDate": {
+          "$date": {
+            "$numberLong": "1671395431595"
+          }
+        },
+        "_id": {
+          "$oid": "639f7867e0a67328b49ed5a6"
+        }
+      },
+      {
+        "backupConfigId": {
+          "$oid": "63a0c9ea38b63edf57cc86d4"
+        },
+        "backupDate": {
+          "$date": {
+            "$numberLong": "1671481834297"
+          }
+        },
+        "_id": {
+          "$oid": "63a0c9ea38b63edf57cc86d6"
+        }
+      },
+      {
+        "backupConfigId": {
+          "$oid": "63a261bdccfcd60f6a228602"
+        },
+        "backupDate": {
+          "$date": {
+            "$numberLong": "1671586237189"
+          }
+        },
+        "_id": {
+          "$oid": "63a261bdccfcd60f6a228604"
+        }
+      },
+      {
+        "backupConfigId": {
+          "$oid": "63a3b334d7810e5318be49fc"
+        },
+        "backupDate": {
+          "$date": {
+            "$numberLong": "1671672628541"
+          }
+        },
+        "_id": {
+          "$oid": "63a3b334d7810e5318be49fe"
+        }
+      }
+    ],
+    "lastAccessAttempt": {
+      "$date": {
+        "$numberLong": "1670229465586"
+      }
+    }
+  },{
+    "_id": {
+      "$oid": "624e66c6adc0235835ebf32a"
+    },
+    "model": "IOSv",
+    "device_family": "Cisco-IOS",
+    "softwareVersion": "15.2(CML_NIGHTLY_20180619)FLO_DSGS7",
+    "serialNo": "9B27ZE57D5G",
+    "assetTag": "function String() { [native code] }",
+    "name": "function String() { [native code] }",
+    "hostname": "CoreSW-2",
+    "ip_address": "10.16.16.77",
+    "status": "Unreachable (at 12:45:58)",
+    "systemMemory": "574713K/209920K",
+    "site": "DLL",
+    "location": "Bangalore",
+    "username": "cisco",
+    "password": "Y2lzY28=",
+    "mode": "ios",
+    "__v": 0,
+    "vendorId": {
+      "$oid": "6268fb7fe5d7fc49ff48bb02"
+    },
+    "customerId": {
+      "$oid": "629a1958ee726b3aee6e390a"
+    },
+    "region": "EU",
+    "configBackups": [
+      {
+        "backupConfigId": {
+          "$oid": "636bf766bf045fe326c8cc0a"
+        },
+        "backupDate": {
+          "$date": {
+            "$numberLong": "1668020070344"
+          }
+        },
+        "_id": {
+          "$oid": "636bf766bf045fe326c8cc0c"
+        }
+      },
+      {
+        "backupConfigId": {
+          "$oid": "636deffbf2be041a88dbc2a2"
+        },
+        "backupDate": {
+          "$date": {
+            "$numberLong": "1668149243769"
+          }
+        },
+        "_id": {
+          "$oid": "636deffbf2be041a88dbc2a4"
+        }
+      },
+      {
+        "backupConfigId": {
+          "$oid": "6371d2edf2be041a88dbc2c9"
+        },
+        "backupDate": {
+          "$date": {
+            "$numberLong": "1668403949070"
+          }
+        },
+        "_id": {
+          "$oid": "6371d2edf2be041a88dbc2cb"
+        }
+      },
+      {
+        "backupConfigId": {
+          "$oid": "6371d305f2be041a88dbc2f4"
+        },
+        "backupDate": {
+          "$date": {
+            "$numberLong": "1668403973729"
+          }
+        },
+        "_id": {
+          "$oid": "6371d305f2be041a88dbc2f6"
+        }
+      },
+      {
+        "backupConfigId": {
+          "$oid": "6371d319f2be041a88dbc323"
+        },
+        "backupDate": {
+          "$date": {
+            "$numberLong": "1668403993242"
+          }
+        },
+        "_id": {
+          "$oid": "6371d319f2be041a88dbc325"
+        }
+      },
+      {
+        "backupConfigId": {
+          "$oid": "6371d3d1f2be041a88dbc34e"
+        },
+        "backupDate": {
+          "$date": {
+            "$numberLong": "1668404177200"
+          }
+        },
+        "_id": {
+          "$oid": "6371d3d1f2be041a88dbc350"
+        }
+      },
+      {
+        "backupConfigId": {
+          "$oid": "63732e2d77fedc4b2c0f074a"
+        },
+        "backupDate": {
+          "$date": {
+            "$numberLong": "1668492845369"
+          }
+        },
+        "_id": {
+          "$oid": "63732e2d77fedc4b2c0f074c"
+        }
+      },
+      {
+        "backupConfigId": {
+          "$oid": "637632f0910070db8b712f66"
+        },
+        "backupDate": {
+          "$date": {
+            "$numberLong": "1668690672985"
+          }
+        },
+        "_id": {
+          "$oid": "637632f0910070db8b712f68"
+        }
+      },
+      {
+        "backupConfigId": {
+          "$oid": "63809ae69ccd69aeb3929e14"
+        },
+        "backupDate": {
+          "$date": {
+            "$numberLong": "1669372646617"
+          }
+        },
+        "_id": {
+          "$oid": "63809ae69ccd69aeb3929e16"
+        }
+      },
+      {
+        "backupConfigId": {
+          "$oid": "6384707972fb0a920e73d5d4"
+        },
+        "backupDate": {
+          "$date": {
+            "$numberLong": "1669623929346"
+          }
+        },
+        "_id": {
+          "$oid": "6384707972fb0a920e73d5d6"
+        }
+      },
+      {
+        "backupConfigId": {
+          "$oid": "63865fabd39a115194f53bea"
+        },
+        "backupDate": {
+          "$date": {
+            "$numberLong": "1669750699660"
+          }
+        },
+        "_id": {
+          "$oid": "63865fabd39a115194f53bec"
+        }
+      },
+      {
+        "backupConfigId": {
+          "$oid": "6396d52a839adcf4f14b5a9e"
+        },
+        "backupDate": {
+          "$date": {
+            "$numberLong": "1670829354285"
+          }
+        },
+        "_id": {
+          "$oid": "6396d52a839adcf4f14b5aa0"
+        }
+      },
+      {
+        "backupConfigId": {
+          "$oid": "639e23fde0a67328b49ece13"
+        },
+        "backupDate": {
+          "$date": {
+            "$numberLong": "1671308285110"
+          }
+        },
+        "_id": {
+          "$oid": "639e23fde0a67328b49ece15"
+        }
+      },
+      {
+        "backupConfigId": {
+          "$oid": "639e29b7e0a67328b49ecee8"
+        },
+        "backupDate": {
+          "$date": {
+            "$numberLong": "1671309751934"
+          }
+        },
+        "_id": {
+          "$oid": "639e29b7e0a67328b49eceea"
+        }
+      },
+      {
+        "backupConfigId": {
+          "$oid": "639f783be0a67328b49ed4dd"
+        },
+        "backupDate": {
+          "$date": {
+            "$numberLong": "1671395388015"
+          }
+        },
+        "_id": {
+          "$oid": "639f783ce0a67328b49ed4df"
+        }
+      },
+      {
+        "backupConfigId": {
+          "$oid": "63a0c9b538b63edf57cc8602"
+        },
+        "backupDate": {
+          "$date": {
+            "$numberLong": "1671481781132"
+          }
+        },
+        "_id": {
+          "$oid": "63a0c9b538b63edf57cc8604"
+        }
+      },
+      {
+        "backupConfigId": {
+          "$oid": "63a26191ccfcd60f6a228525"
+        },
+        "backupDate": {
+          "$date": {
+            "$numberLong": "1671586193309"
+          }
+        },
+        "_id": {
+          "$oid": "63a26191ccfcd60f6a228527"
+        }
+      },
+      {
+        "backupConfigId": {
+          "$oid": "63a3b30cd7810e5318be4914"
+        },
+        "backupDate": {
+          "$date": {
+            "$numberLong": "1671672588536"
+          }
+        },
+        "_id": {
+          "$oid": "63a3b30cd7810e5318be4916"
+        }
+      }
+    ],
+    "ios": "flash0:/vios_l2-adventerprisek9-m",
+    "lastAccessAttempt": {
+      "$date": {
+        "$numberLong": "1670229465593"
+      }
+    },
+    "lastAccessSuccessful": {
+      "$date": {
+        "$numberLong": "1670229465593"
+      }
+    },
+    "lastSuccessfulComplianceCheck": {
+      "$date": {
+        "$numberLong": "1671650200868"
+      }
+    },
+    "complianceReportId": {
+      "$oid": "639d909ad05733333b258989"
+    }
+  },{
+    "_id": {
+      "$oid": "624e66c6adc0235835ebf328"
+    },
+    "model": "model",
+    "device_family": "HP",
+    "softwareVersion": "CISCO-IOS-XE",
+    "serialNo": "xxxxxxxx",
+    "assetTag": "Bengaluru",
+    "name": "Device",
+    "hostname": "HPE-R01",
+    "ip_address": "10.16.16.192",
+    "status": "Unreachable (at 12:45:42)",
+    "systemMemory": "129.0M",
+    "site": "DLL",
+    "location": "Bangalore",
+    "username": "nwuser",
+    "password": "TWljcm9sYW5kQDEyMw==",
+    "mode": "netmiko",
+    "__v": 0,
+    "vendorId": {
+      "$oid": "6268fb7fe5d7fc49ff48bb04"
+    },
+    "customerId": {
+      "$oid": "629a1958ee726b3aee6e390a"
+    },
+    "region": "EU",
+    "lastAccessAttempt": {
+      "$date": {
+        "$numberLong": "1670229465592"
+      }
+    }
+  },{
+    "_id": {
+      "$oid": "624e66c6adc0235835ebf32f"
+    },
+    "model": "IOSv",
+    "device_family": "Cisco-IOS",
+    "softwareVersion": "15.7(3)M3",
+    "serialNo": "9CPLSSFAHX1IQ861O41MF",
+    "assetTag": "function String() { [native code] }",
+    "name": "function String() { [native code] }",
+    "hostname": "MPLS_R11",
+    "ip_address": "10.16.16.251",
+    "status": "Unreachable (at 12:45:50)",
+    "systemMemory": " with 460017K/62464K",
+    "site": "DLL",
+    "location": "Bangalore",
+    "username": "cisco",
+    "password": "Y2lzY28=",
+    "mode": "ios",
+    "__v": 0,
+    "vendorId": {
+      "$oid": "6268fb7fe5d7fc49ff48bb00"
+    },
+    "customerId": {
+      "$oid": "629a1958ee726b3aee6e390a"
+    },
+    "region": "EU",
+    "configBackups": [
+      {
+        "backupConfigId": {
+          "$oid": "636bf905bf045fe326c8cc1a"
+        },
+        "backupDate": {
+          "$date": {
+            "$numberLong": "1668020485595"
+          }
+        },
+        "_id": {
+          "$oid": "636bf905bf045fe326c8cc1c"
+        }
+      },
+      {
+        "backupConfigId": {
+          "$oid": "636defd0f2be041a88dbc27c"
+        },
+        "backupDate": {
+          "$date": {
+            "$numberLong": "1668149200542"
+          }
+        },
+        "_id": {
+          "$oid": "636defd0f2be041a88dbc27e"
+        }
+      },
+      {
+        "backupConfigId": {
+          "$oid": "6371d3e5f2be041a88dbc36e"
+        },
+        "backupDate": {
+          "$date": {
+            "$numberLong": "1668404197201"
+          }
+        },
+        "_id": {
+          "$oid": "6371d3e5f2be041a88dbc370"
+        }
+      },
+      {
+        "backupConfigId": {
+          "$oid": "63732e4077fedc4b2c0f076e"
+        },
+        "backupDate": {
+          "$date": {
+            "$numberLong": "1668492864350"
+          }
+        },
+        "_id": {
+          "$oid": "63732e4077fedc4b2c0f0770"
+        }
+      },
+      {
+        "backupConfigId": {
+          "$oid": "63763304910070db8b712f8e"
+        },
+        "backupDate": {
+          "$date": {
+            "$numberLong": "1668690692730"
+          }
+        },
+        "_id": {
+          "$oid": "63763304910070db8b712f90"
+        }
+      },
+      {
+        "backupConfigId": {
+          "$oid": "63809afa9ccd69aeb3929e40"
+        },
+        "backupDate": {
+          "$date": {
+            "$numberLong": "1669372666610"
+          }
+        },
+        "_id": {
+          "$oid": "63809afa9ccd69aeb3929e42"
+        }
+      },
+      {
+        "backupConfigId": {
+          "$oid": "6384708c72fb0a920e73d604"
+        },
+        "backupDate": {
+          "$date": {
+            "$numberLong": "1669623949047"
+          }
+        },
+        "_id": {
+          "$oid": "6384708d72fb0a920e73d606"
+        }
+      },
+      {
+        "backupConfigId": {
+          "$oid": "63865fbed39a115194f53c1e"
+        },
+        "backupDate": {
+          "$date": {
+            "$numberLong": "1669750718339"
+          }
+        },
+        "_id": {
+          "$oid": "63865fbed39a115194f53c20"
+        }
+      },
+      {
+        "backupConfigId": {
+          "$oid": "6396d53b839adcf4f14b5acb"
+        },
+        "backupDate": {
+          "$date": {
+            "$numberLong": "1670829371473"
+          }
+        },
+        "_id": {
+          "$oid": "6396d53b839adcf4f14b5acd"
+        }
+      },
+      {
+        "backupConfigId": {
+          "$oid": "639e240be0a67328b49ece43"
+        },
+        "backupDate": {
+          "$date": {
+            "$numberLong": "1671308299512"
+          }
+        },
+        "_id": {
+          "$oid": "639e240be0a67328b49ece45"
+        }
+      },
+      {
+        "backupConfigId": {
+          "$oid": "639e29c9e0a67328b49ecf26"
+        },
+        "backupDate": {
+          "$date": {
+            "$numberLong": "1671309769711"
+          }
+        },
+        "_id": {
+          "$oid": "639e29c9e0a67328b49ecf28"
+        }
+      },
+      {
+        "backupConfigId": {
+          "$oid": "639f784fe0a67328b49ed520"
+        },
+        "backupDate": {
+          "$date": {
+            "$numberLong": "1671395407307"
+          }
+        },
+        "_id": {
+          "$oid": "639f784fe0a67328b49ed522"
+        }
+      },
+      {
+        "backupConfigId": {
+          "$oid": "63a0c9ca38b63edf57cc8649"
+        },
+        "backupDate": {
+          "$date": {
+            "$numberLong": "1671481802741"
+          }
+        },
+        "_id": {
+          "$oid": "63a0c9ca38b63edf57cc864b"
+        }
+      },
+      {
+        "backupConfigId": {
+          "$oid": "63a261a7ccfcd60f6a22858b"
+        },
+        "backupDate": {
+          "$date": {
+            "$numberLong": "1671586215674"
+          }
+        },
+        "_id": {
+          "$oid": "63a261a7ccfcd60f6a22858d"
+        }
+      },
+      {
+        "backupConfigId": {
+          "$oid": "63a3b31fd7810e5318be4963"
+        },
+        "backupDate": {
+          "$date": {
+            "$numberLong": "1671672607686"
+          }
+        },
+        "_id": {
+          "$oid": "63a3b31fd7810e5318be4965"
+        }
+      }
+    ],
+    "ios": "flash0:/vios-adventerprisek9-m",
+    "lastAccessAttempt": {
+      "$date": {
+        "$numberLong": "1670229465598"
+      }
+    },
+    "lastAccessSuccessful": {
+      "$date": {
+        "$numberLong": "1670229465598"
+      }
+    },
+    "lastSuccessfulComplianceCheck": {
+      "$date": {
+        "$numberLong": "1671540551102"
+      }
+    }
+  },{
+    "_id": {
+      "$oid": "624e66c6adc0235835ebf32c"
+    },
+    "model": "CSR1000V",
+    "device_family": "Viptela",
+    "softwareVersion": "16.12.5",
+    "serialNo": "9C0MPVXUF96",
+    "assetTag": "Bengaluru",
+    "name": "Device",
+    "hostname": "GER-FKFT-EDGE01",
+    "ip_address": "10.16.16.188",
+    "status": "Unreachable (at 12:45:34)",
+    "systemMemory": "2080123K/3075K",
+    "site": "DLL",
+    "location": "Bangalore",
+    "username": "admin",
+    "password": "YWRtaW4=",
+    "mode": "netmiko",
+    "__v": 0,
+    "vendorId": {
+      "$oid": "6268fb7fe5d7fc49ff48bb05"
+    },
+    "customerId": {
+      "$oid": "629a1958ee726b3aee6e390a"
+    },
+    "region": "EU",
+    "configBackups": [
+      {
+        "backupConfigId": {
+          "$oid": "636bfa99bf045fe326c8cc3a"
+        },
+        "backupDate": {
+          "$date": {
+            "$numberLong": "1668020889050"
+          }
+        },
+        "_id": {
+          "$oid": "636bfa99bf045fe326c8cc3c"
+        }
+      },
+      {
+        "backupConfigId": {
+          "$oid": "636def97f2be041a88dbc268"
+        },
+        "backupDate": {
+          "$date": {
+            "$numberLong": "1668149143057"
+          }
+        },
+        "_id": {
+          "$oid": "636def97f2be041a88dbc26a"
+        }
+      },
+      {
+        "backupConfigId": {
+          "$oid": "6371d3fdf2be041a88dbc39e"
+        },
+        "backupDate": {
+          "$date": {
+            "$numberLong": "1668404221369"
+          }
+        },
+        "_id": {
+          "$oid": "6371d3fdf2be041a88dbc3a0"
+        }
+      },
+      {
+        "backupConfigId": {
+          "$oid": "63732e5877fedc4b2c0f07a6"
+        },
+        "backupDate": {
+          "$date": {
+            "$numberLong": "1668492888383"
+          }
+        },
+        "_id": {
+          "$oid": "63732e5877fedc4b2c0f07a8"
+        }
+      },
+      {
+        "backupConfigId": {
+          "$oid": "63763316910070db8b712fce"
+        },
+        "backupDate": {
+          "$date": {
+            "$numberLong": "1668690710432"
+          }
+        },
+        "_id": {
+          "$oid": "63763316910070db8b712fd0"
+        }
+      },
+      {
+        "backupConfigId": {
+          "$oid": "63809b0b9ccd69aeb3929e88"
+        },
+        "backupDate": {
+          "$date": {
+            "$numberLong": "1669372683407"
+          }
+        },
+        "_id": {
+          "$oid": "63809b0b9ccd69aeb3929e8a"
+        }
+      },
+      {
+        "backupConfigId": {
+          "$oid": "6384709f72fb0a920e73d654"
+        },
+        "backupDate": {
+          "$date": {
+            "$numberLong": "1669623967046"
+          }
+        },
+        "_id": {
+          "$oid": "6384709f72fb0a920e73d656"
+        }
+      },
+      {
+        "backupConfigId": {
+          "$oid": "63865fcfd39a115194f53c76"
+        },
+        "backupDate": {
+          "$date": {
+            "$numberLong": "1669750735222"
+          }
+        },
+        "_id": {
+          "$oid": "63865fcfd39a115194f53c78"
+        }
+      },
+      {
+        "backupConfigId": {
+          "$oid": "6396d550839adcf4f14b5b2b"
+        },
+        "backupDate": {
+          "$date": {
+            "$numberLong": "1670829392649"
+          }
+        },
+        "_id": {
+          "$oid": "6396d550839adcf4f14b5b2d"
+        }
+      },
+      {
+        "backupConfigId": {
+          "$oid": "639e2426e0a67328b49eceab"
+        },
+        "backupDate": {
+          "$date": {
+            "$numberLong": "1671308326245"
+          }
+        },
+        "_id": {
+          "$oid": "639e2426e0a67328b49ecead"
+        }
+      },
+      {
+        "backupConfigId": {
+          "$oid": "639e29e7e0a67328b49ecf96"
+        },
+        "backupDate": {
+          "$date": {
+            "$numberLong": "1671309799788"
+          }
+        },
+        "_id": {
+          "$oid": "639e29e7e0a67328b49ecf98"
+        }
+      },
+      {
+        "backupConfigId": {
+          "$oid": "639f786de0a67328b49ed5b3"
+        },
+        "backupDate": {
+          "$date": {
+            "$numberLong": "1671395437180"
+          }
+        },
+        "_id": {
+          "$oid": "639f786de0a67328b49ed5b5"
+        }
+      },
+      {
+        "backupConfigId": {
+          "$oid": "63a0c9ef38b63edf57cc86e4"
+        },
+        "backupDate": {
+          "$date": {
+            "$numberLong": "1671481839376"
+          }
+        },
+        "_id": {
+          "$oid": "63a0c9ef38b63edf57cc86e6"
+        }
+      },
+      {
+        "backupConfigId": {
+          "$oid": "63a261c2ccfcd60f6a228613"
+        },
+        "backupDate": {
+          "$date": {
+            "$numberLong": "1671586242296"
+          }
+        },
+        "_id": {
+          "$oid": "63a261c2ccfcd60f6a228615"
+        }
+      },
+      {
+        "backupConfigId": {
+          "$oid": "63a3b339d7810e5318be4a0e"
+        },
+        "backupDate": {
+          "$date": {
+            "$numberLong": "1671672633654"
+          }
+        },
+        "_id": {
+          "$oid": "63a3b339d7810e5318be4a10"
+        }
+      }
+    ],
+    "lastAccessAttempt": {
+      "$date": {
+        "$numberLong": "1670229465607"
+      }
+    },
+    "ios": "bootflash:packages.conf",
+    "lastAccessSuccessful": {
+      "$date": {
+        "$numberLong": "1670229465607"
+      }
+    }
+  },{
+    "_id": {
+      "$oid": "624e66c6adc0235835ebf32e"
+    },
+    "model": "IOSv",
+    "device_family": "Cisco-IOS",
+    "softwareVersion": "15.2(CML_NIGHTLY_20180619)FLO_DSGS7",
+    "serialNo": "9XRLUHWQFR6",
+    "assetTag": "function String() { [native code] }",
+    "name": "function String() { [native code] }",
+    "hostname": "ben-sw1",
+    "ip_address": "10.16.16.241",
+    "status": "Unreachable (at 12:45:46)",
+    "systemMemory": "574713K/209920K",
+    "site": "DLL",
+    "location": "Bangalore",
+    "username": "cisco",
+    "password": "Y2lzY28=",
+    "mode": "ios",
+    "__v": 0,
+    "vendorId": {
+      "$oid": "6268fb7fe5d7fc49ff48bb02"
+    },
+    "customerId": {
+      "$oid": "629a1958ee726b3aee6e390a"
+    },
+    "region": "EU",
+    "configBackups": [
+      {
+        "backupConfigId": {
+          "$oid": "636bf76cbf045fe326c8cc0e"
+        },
+        "backupDate": {
+          "$date": {
+            "$numberLong": "1668020076088"
+          }
+        },
+        "_id": {
+          "$oid": "636bf76cbf045fe326c8cc10"
+        }
+      },
+      {
+        "backupConfigId": {
+          "$oid": "636df001f2be041a88dbc2a7"
+        },
+        "backupDate": {
+          "$date": {
+            "$numberLong": "1668149249627"
+          }
+        },
+        "_id": {
+          "$oid": "636df001f2be041a88dbc2a9"
+        }
+      },
+      {
+        "backupConfigId": {
+          "$oid": "6371d2f2f2be041a88dbc2cf"
+        },
+        "backupDate": {
+          "$date": {
+            "$numberLong": "1668403954440"
+          }
+        },
+        "_id": {
+          "$oid": "6371d2f2f2be041a88dbc2d1"
+        }
+      },
+      {
+        "backupConfigId": {
+          "$oid": "6371d30cf2be041a88dbc2fb"
+        },
+        "backupDate": {
+          "$date": {
+            "$numberLong": "1668403980113"
+          }
+        },
+        "_id": {
+          "$oid": "6371d30cf2be041a88dbc2fd"
+        }
+      },
+      {
+        "backupConfigId": {
+          "$oid": "6371d319f2be041a88dbc32b"
+        },
+        "backupDate": {
+          "$date": {
+            "$numberLong": "1668403993609"
+          }
+        },
+        "_id": {
+          "$oid": "6371d319f2be041a88dbc32d"
+        }
+      },
+      {
+        "backupConfigId": {
+          "$oid": "6371d3d6f2be041a88dbc357"
+        },
+        "backupDate": {
+          "$date": {
+            "$numberLong": "1668404183013"
+          }
+        },
+        "_id": {
+          "$oid": "6371d3d7f2be041a88dbc359"
+        }
+      },
+      {
+        "backupConfigId": {
+          "$oid": "63732e3277fedc4b2c0f0754"
+        },
+        "backupDate": {
+          "$date": {
+            "$numberLong": "1668492850773"
+          }
+        },
+        "_id": {
+          "$oid": "63732e3277fedc4b2c0f0756"
+        }
+      },
+      {
+        "backupConfigId": {
+          "$oid": "637632f6910070db8b712f71"
+        },
+        "backupDate": {
+          "$date": {
+            "$numberLong": "1668690678358"
+          }
+        },
+        "_id": {
+          "$oid": "637632f6910070db8b712f73"
+        }
+      },
+      {
+        "backupConfigId": {
+          "$oid": "63809aec9ccd69aeb3929e20"
+        },
+        "backupDate": {
+          "$date": {
+            "$numberLong": "1669372652579"
+          }
+        },
+        "_id": {
+          "$oid": "63809aec9ccd69aeb3929e22"
+        }
+      },
+      {
+        "backupConfigId": {
+          "$oid": "6384707f72fb0a920e73d5e1"
+        },
+        "backupDate": {
+          "$date": {
+            "$numberLong": "1669623935195"
+          }
+        },
+        "_id": {
+          "$oid": "6384707f72fb0a920e73d5e3"
+        }
+      },
+      {
+        "backupConfigId": {
+          "$oid": "63865fb1d39a115194f53bf8"
+        },
+        "backupDate": {
+          "$date": {
+            "$numberLong": "1669750705053"
+          }
+        },
+        "_id": {
+          "$oid": "63865fb1d39a115194f53bfa"
+        }
+      },
+      {
+        "backupConfigId": {
+          "$oid": "639e29bde0a67328b49ecef9"
+        },
+        "backupDate": {
+          "$date": {
+            "$numberLong": "1671309757587"
+          }
+        },
+        "_id": {
+          "$oid": "639e29bde0a67328b49ecefb"
+        }
+      },
+      {
+        "backupConfigId": {
+          "$oid": "639f7841e0a67328b49ed4ef"
+        },
+        "backupDate": {
+          "$date": {
+            "$numberLong": "1671395393353"
+          }
+        },
+        "_id": {
+          "$oid": "639f7841e0a67328b49ed4f1"
+        }
+      },
+      {
+        "backupConfigId": {
+          "$oid": "63a0c9ba38b63edf57cc8615"
+        },
+        "backupDate": {
+          "$date": {
+            "$numberLong": "1671481786480"
+          }
+        },
+        "_id": {
+          "$oid": "63a0c9ba38b63edf57cc8617"
+        }
+      },
+      {
+        "backupConfigId": {
+          "$oid": "63a26197ccfcd60f6a228539"
+        },
+        "backupDate": {
+          "$date": {
+            "$numberLong": "1671586199246"
+          }
+        },
+        "_id": {
+          "$oid": "63a26197ccfcd60f6a22853b"
+        }
+      },
+      {
+        "backupConfigId": {
+          "$oid": "63a3b312d7810e5318be4929"
+        },
+        "backupDate": {
+          "$date": {
+            "$numberLong": "1671672594754"
+          }
+        },
+        "_id": {
+          "$oid": "63a3b312d7810e5318be492b"
+        }
+      }
+    ],
+    "ios": "flash0:/vios_l2-adventerprisek9-m",
+    "lastAccessAttempt": {
+      "$date": {
+        "$numberLong": "1670229465608"
+      }
+    },
+    "lastAccessSuccessful": {
+      "$date": {
+        "$numberLong": "1670229465608"
+      }
+    },
+    "lastSuccessfulComplianceCheck": {
+      "$date": {
+        "$numberLong": "1671650199703"
+      }
+    },
+    "complianceReportId": {
+      "$oid": "639d9099d05733333b258921"
+    }
+  },{
+    "_id": {
+      "$oid": "624e66c6adc0235835ebf330"
+    },
+    "model": "model",
+    "device_family": "Cisco-IOS",
+    "softwareVersion": "",
+    "serialNo": "xxxxxxxxxxxx",
+    "assetTag": "Bengaluru",
+    "name": "Device",
+    "hostname": "ASAFW",
+    "ip_address": "10.16.16.171",
+    "status": "Unreachable (at 12:45:22)",
+    "systemMemory": "129.0M",
+    "site": "DLL",
+    "location": "Bangalore",
+    "username": "cisco",
+    "password": "Y2lzY28=",
+    "mode": "netmiko",
+    "__v": 0,
+    "vendorId": {
+      "$oid": "6268fb7fe5d7fc49ff48bb01"
+    },
+    "customerId": {
+      "$oid": "629a1958ee726b3aee6e390a"
+    },
+    "region": "EU",
+    "configBackups": [
+      {
+        "backupConfigId": {
+          "$oid": "636bf961bf045fe326c8cc2a"
+        },
+        "backupDate": {
+          "$date": {
+            "$numberLong": "1668020577578"
+          }
+        },
+        "_id": {
+          "$oid": "636bf961bf045fe326c8cc2c"
+        }
+      },
+      {
+        "backupConfigId": {
+          "$oid": "636defbaf2be041a88dbc272"
+        },
+        "backupDate": {
+          "$date": {
+            "$numberLong": "1668149178468"
+          }
+        },
+        "_id": {
+          "$oid": "636defbaf2be041a88dbc274"
+        }
+      },
+      {
+        "backupConfigId": {
+          "$oid": "6371d3f5f2be041a88dbc386"
+        },
+        "backupDate": {
+          "$date": {
+            "$numberLong": "1668404213267"
+          }
+        },
+        "_id": {
+          "$oid": "6371d3f5f2be041a88dbc388"
+        }
+      },
+      {
+        "backupConfigId": {
+          "$oid": "63732e5077fedc4b2c0f078a"
+        },
+        "backupDate": {
+          "$date": {
+            "$numberLong": "1668492880754"
+          }
+        },
+        "_id": {
+          "$oid": "63732e5077fedc4b2c0f078c"
+        }
+      },
+      {
+        "backupConfigId": {
+          "$oid": "6376330e910070db8b712fae"
+        },
+        "backupDate": {
+          "$date": {
+            "$numberLong": "1668690702810"
+          }
+        },
+        "_id": {
+          "$oid": "6376330e910070db8b712fb0"
+        }
+      },
+      {
+        "backupConfigId": {
+          "$oid": "63809b039ccd69aeb3929e64"
+        },
+        "backupDate": {
+          "$date": {
+            "$numberLong": "1669372675470"
+          }
+        },
+        "_id": {
+          "$oid": "63809b039ccd69aeb3929e66"
+        }
+      },
+      {
+        "backupConfigId": {
+          "$oid": "6384709772fb0a920e73d62c"
+        },
+        "backupDate": {
+          "$date": {
+            "$numberLong": "1669623959092"
+          }
+        },
+        "_id": {
+          "$oid": "6384709772fb0a920e73d62e"
+        }
+      },
+      {
+        "backupConfigId": {
+          "$oid": "63865fc8d39a115194f53c4a"
+        },
+        "backupDate": {
+          "$date": {
+            "$numberLong": "1669750728145"
+          }
+        },
+        "_id": {
+          "$oid": "63865fc8d39a115194f53c4c"
+        }
+      },
+      {
+        "backupConfigId": {
+          "$oid": "6396d549839adcf4f14b5afb"
+        },
+        "backupDate": {
+          "$date": {
+            "$numberLong": "1670829385585"
+          }
+        },
+        "_id": {
+          "$oid": "6396d549839adcf4f14b5afd"
+        }
+      },
+      {
+        "backupConfigId": {
+          "$oid": "639e241ae0a67328b49ece77"
+        },
+        "backupDate": {
+          "$date": {
+            "$numberLong": "1671308314869"
+          }
+        },
+        "_id": {
+          "$oid": "639e241ae0a67328b49ece79"
+        }
+      },
+      {
+        "backupConfigId": {
+          "$oid": "639e29dce0a67328b49ecf5e"
+        },
+        "backupDate": {
+          "$date": {
+            "$numberLong": "1671309788079"
+          }
+        },
+        "_id": {
+          "$oid": "639e29dce0a67328b49ecf60"
+        }
+      },
+      {
+        "backupConfigId": {
+          "$oid": "639f785ce0a67328b49ed577"
+        },
+        "backupDate": {
+          "$date": {
+            "$numberLong": "1671395420634"
+          }
+        },
+        "_id": {
+          "$oid": "639f785ce0a67328b49ed579"
+        }
+      },
+      {
+        "backupConfigId": {
+          "$oid": "63a0c9d938b63edf57cc86a4"
+        },
+        "backupDate": {
+          "$date": {
+            "$numberLong": "1671481817243"
+          }
+        },
+        "_id": {
+          "$oid": "63a0c9d938b63edf57cc86a6"
+        }
+      },
+      {
+        "backupConfigId": {
+          "$oid": "63a261b7ccfcd60f6a2285cf"
+        },
+        "backupDate": {
+          "$date": {
+            "$numberLong": "1671586231068"
+          }
+        },
+        "_id": {
+          "$oid": "63a261b7ccfcd60f6a2285d1"
+        }
+      },
+      {
+        "backupConfigId": {
+          "$oid": "63a3b32fd7810e5318be49c6"
+        },
+        "backupDate": {
+          "$date": {
+            "$numberLong": "1671672623647"
+          }
+        },
+        "_id": {
+          "$oid": "63a3b32fd7810e5318be49c8"
+        }
+      }
+    ],
+    "lastAccessAttempt": {
+      "$date": {
+        "$numberLong": "1670229465639"
+      }
+    }
+  },{
+    "_id": {
+      "$oid": "6256c7a17737eba8488f2fb7"
+    },
+    "model": "FortiGate 60F",
+    "device_family": "Fortinet",
+    "softwareVersion": "v6.4.8 build1914 (GA)",
+    "serialNo": "FGT60FTK21047183",
+    "assetTag": "Bengaluru",
+    "name": "Device",
+    "hostname": "RF-Ml1002-R-USMLAND-NY01",
+    "ip_address": "208.102.169.88",
+    "status": "Reachable (at 12:46:46)",
+    "systemMemory": "",
+    "site": "DLL2",
+    "location": "Nashville",
+    "username": "admin",
+    "password": "Rm9ydGluZXQxIQ==",
+    "mode": "netmiko",
+    "__v": 0,
+    "vendorId": {
+      "$oid": "6268fb7fe5d7fc49ff48bb03"
+    },
+    "customerId": {
+      "$oid": "629a1958ee726b3aee6e390a"
+    },
+    "region": "EU",
+    "lastAccessAttempt": {
+      "$date": {
+        "$numberLong": "1670229466192"
+      }
+    }
+  },{
+    "_id": {
+      "$oid": "6261535fcff4c9e1a417d767"
+    },
+    "model": "IOSv",
+    "device_family": "Cisco-IOS",
+    "softwareVersion": "15.2(CML_NIGHTLY_20180619)FLO_DSGS7",
+    "serialNo": "9TZBH4QWT8F",
+    "assetTag": "function String() { [native code] }",
+    "name": "function String() { [native code] }",
+    "hostname": "SW2",
+    "ip_address": "10.16.16.162",
+    "status": "Unreachable (at 12:45:18)",
+    "systemMemory": "574713K/209920K",
+    "site": "DLL",
+    "location": "Bangalore",
+    "username": "cisco",
+    "password": "Y2lzY28=",
+    "mode": "ios",
+    "__v": 0,
+    "vendorId": {
+      "$oid": "6268fb7fe5d7fc49ff48bb02"
+    },
+    "customerId": {
+      "$oid": "629a1958ee726b3aee6e390a"
+    },
+    "region": "EU",
+    "configBackups": [
+      {
+        "backupConfigId": {
+          "$oid": "636bf771bf045fe326c8cc12"
+        },
+        "backupDate": {
+          "$date": {
+            "$numberLong": "1668020081219"
+          }
+        },
+        "_id": {
+          "$oid": "636bf771bf045fe326c8cc14"
+        }
+      },
+      {
+        "backupConfigId": {
+          "$oid": "636df006f2be041a88dbc2ac"
+        },
+        "backupDate": {
+          "$date": {
+            "$numberLong": "1668149254928"
+          }
+        },
+        "_id": {
+          "$oid": "636df006f2be041a88dbc2ae"
+        }
+      },
+      {
+        "backupConfigId": {
+          "$oid": "6371d2f7f2be041a88dbc2d5"
+        },
+        "backupDate": {
+          "$date": {
+            "$numberLong": "1668403959565"
+          }
+        },
+        "_id": {
+          "$oid": "6371d2f7f2be041a88dbc2d7"
+        }
+      },
+      {
+        "backupConfigId": {
+          "$oid": "6371d311f2be041a88dbc302"
+        },
+        "backupDate": {
+          "$date": {
+            "$numberLong": "1668403985216"
+          }
+        },
+        "_id": {
+          "$oid": "6371d311f2be041a88dbc304"
+        }
+      },
+      {
+        "backupConfigId": {
+          "$oid": "6371d3dcf2be041a88dbc360"
+        },
+        "backupDate": {
+          "$date": {
+            "$numberLong": "1668404188188"
+          }
+        },
+        "_id": {
+          "$oid": "6371d3dcf2be041a88dbc362"
+        }
+      },
+      {
+        "backupConfigId": {
+          "$oid": "63732e3777fedc4b2c0f075e"
+        },
+        "backupDate": {
+          "$date": {
+            "$numberLong": "1668492855879"
+          }
+        },
+        "_id": {
+          "$oid": "63732e3777fedc4b2c0f0760"
+        }
+      },
+      {
+        "backupConfigId": {
+          "$oid": "637632fb910070db8b712f7c"
+        },
+        "backupDate": {
+          "$date": {
+            "$numberLong": "1668690683551"
+          }
+        },
+        "_id": {
+          "$oid": "637632fb910070db8b712f7e"
+        }
+      },
+      {
+        "backupConfigId": {
+          "$oid": "63809af19ccd69aeb3929e2c"
+        },
+        "backupDate": {
+          "$date": {
+            "$numberLong": "1669372657784"
+          }
+        },
+        "_id": {
+          "$oid": "63809af19ccd69aeb3929e2e"
+        }
+      },
+      {
+        "backupConfigId": {
+          "$oid": "6384708472fb0a920e73d5ee"
+        },
+        "backupDate": {
+          "$date": {
+            "$numberLong": "1669623940860"
+          }
+        },
+        "_id": {
+          "$oid": "6384708472fb0a920e73d5f0"
+        }
+      },
+      {
+        "backupConfigId": {
+          "$oid": "63865fb6d39a115194f53c06"
+        },
+        "backupDate": {
+          "$date": {
+            "$numberLong": "1669750710523"
+          }
+        },
+        "_id": {
+          "$oid": "63865fb6d39a115194f53c08"
+        }
+      },
+      {
+        "backupConfigId": {
+          "$oid": "6396d532839adcf4f14b5ab1"
+        },
+        "backupDate": {
+          "$date": {
+            "$numberLong": "1670829362284"
+          }
+        },
+        "_id": {
+          "$oid": "6396d532839adcf4f14b5ab3"
+        }
+      },
+      {
+        "backupConfigId": {
+          "$oid": "639e2404e0a67328b49ece27"
+        },
+        "backupDate": {
+          "$date": {
+            "$numberLong": "1671308292810"
+          }
+        },
+        "_id": {
+          "$oid": "639e2404e0a67328b49ece29"
+        }
+      },
+      {
+        "backupConfigId": {
+          "$oid": "639e29c2e0a67328b49ecf08"
+        },
+        "backupDate": {
+          "$date": {
+            "$numberLong": "1671309762874"
+          }
+        },
+        "_id": {
+          "$oid": "639e29c2e0a67328b49ecf0a"
+        }
+      },
+      {
+        "backupConfigId": {
+          "$oid": "639f7846e0a67328b49ed4ff"
+        },
+        "backupDate": {
+          "$date": {
+            "$numberLong": "1671395398654"
+          }
+        },
+        "_id": {
+          "$oid": "639f7846e0a67328b49ed501"
+        }
+      },
+      {
+        "backupConfigId": {
+          "$oid": "63a0c9c338b63edf57cc8626"
+        },
+        "backupDate": {
+          "$date": {
+            "$numberLong": "1671481795945"
+          }
+        },
+        "_id": {
+          "$oid": "63a0c9c338b63edf57cc8628"
+        }
+      },
+      {
+        "backupConfigId": {
+          "$oid": "63a2619cccfcd60f6a22854c"
+        },
+        "backupDate": {
+          "$date": {
+            "$numberLong": "1671586204245"
+          }
+        },
+        "_id": {
+          "$oid": "63a2619cccfcd60f6a22854e"
+        }
+      },
+      {
+        "backupConfigId": {
+          "$oid": "63a3b318d7810e5318be493c"
+        },
+        "backupDate": {
+          "$date": {
+            "$numberLong": "1671672600030"
+          }
+        },
+        "_id": {
+          "$oid": "63a3b318d7810e5318be493e"
+        }
+      }
+    ],
+    "ios": "flash0:/vios_l2-adventerprisek9-m",
+    "lastAccessAttempt": {
+      "$date": {
+        "$numberLong": "1670229465641"
+      }
+    },
+    "lastAccessSuccessful": {
+      "$date": {
+        "$numberLong": "1670229465641"
+      }
+    },
+    "complianceReportId": {
+      "$oid": "63a35ba8dad016566cbf7870"
+    },
+    "lastSuccessfulComplianceCheck": {
+      "$date": {
+        "$numberLong": "1671650200575"
+      }
+    }
+  },{
+    "_id": {
+      "$oid": "62619172cff4c9e1a417d768"
+    },
+    "model": "IOSv",
+    "device_family": "Cisco-IOS",
+    "softwareVersion": "15.7(3)M3",
+    "serialNo": "9QZU3QYHVA8DYIAA9OE1U",
+    "assetTag": "function String() { [native code] }",
+    "name": "function String() { [native code] }",
+    "hostname": "R1",
+    "ip_address": "10.16.16.151",
+    "status": "Unreachable (at 12:45:06)",
+    "systemMemory": " with 460017K/62464K",
+    "site": "DLL",
+    "location": "Bangalore",
+    "username": "cisco",
+    "password": "Y2lzY28=",
+    "mode": "netmiko",
+    "__v": 0,
+    "vendorId": {
+      "$oid": "6268fb7fe5d7fc49ff48bb00"
+    },
+    "customerId": {
+      "$oid": "629a1958ee726b3aee6e390a"
+    },
+    "region": "EU",
+    "configBackups": [
+      {
+        "backupConfigId": {
+          "$oid": "636bf90bbf045fe326c8cc1e"
+        },
+        "backupDate": {
+          "$date": {
+            "$numberLong": "1668020491140"
+          }
+        },
+        "_id": {
+          "$oid": "636bf90bbf045fe326c8cc20"
+        }
+      },
+      {
+        "backupConfigId": {
+          "$oid": "636defd5f2be041a88dbc281"
+        },
+        "backupDate": {
+          "$date": {
+            "$numberLong": "1668149205725"
+          }
+        },
+        "_id": {
+          "$oid": "636defd5f2be041a88dbc283"
+        }
+      },
+      {
+        "backupConfigId": {
+          "$oid": "6371d3eaf2be041a88dbc374"
+        },
+        "backupDate": {
+          "$date": {
+            "$numberLong": "1668404202431"
+          }
+        },
+        "_id": {
+          "$oid": "6371d3eaf2be041a88dbc376"
+        }
+      },
+      {
+        "backupConfigId": {
+          "$oid": "63732e4577fedc4b2c0f0775"
+        },
+        "backupDate": {
+          "$date": {
+            "$numberLong": "1668492869459"
+          }
+        },
+        "_id": {
+          "$oid": "63732e4577fedc4b2c0f0777"
+        }
+      },
+      {
+        "backupConfigId": {
+          "$oid": "63763309910070db8b712f96"
+        },
+        "backupDate": {
+          "$date": {
+            "$numberLong": "1668690697449"
+          }
+        },
+        "_id": {
+          "$oid": "63763309910070db8b712f98"
+        }
+      },
+      {
+        "backupConfigId": {
+          "$oid": "63809afd9ccd69aeb3929e49"
+        },
+        "backupDate": {
+          "$date": {
+            "$numberLong": "1669372669986"
+          }
+        },
+        "_id": {
+          "$oid": "63809afd9ccd69aeb3929e4b"
+        }
+      },
+      {
+        "backupConfigId": {
+          "$oid": "6384709172fb0a920e73d60e"
+        },
+        "backupDate": {
+          "$date": {
+            "$numberLong": "1669623953409"
+          }
+        },
+        "_id": {
+          "$oid": "6384709172fb0a920e73d610"
+        }
+      },
+      {
+        "backupConfigId": {
+          "$oid": "63865fc2d39a115194f53c29"
+        },
+        "backupDate": {
+          "$date": {
+            "$numberLong": "1669750722322"
+          }
+        },
+        "_id": {
+          "$oid": "63865fc2d39a115194f53c2b"
+        }
+      },
+      {
+        "backupConfigId": {
+          "$oid": "6396d53f839adcf4f14b5ad7"
+        },
+        "backupDate": {
+          "$date": {
+            "$numberLong": "1670829376038"
+          }
+        },
+        "_id": {
+          "$oid": "6396d540839adcf4f14b5ad9"
+        }
+      },
+      {
+        "backupConfigId": {
+          "$oid": "639e240fe0a67328b49ece50"
+        },
+        "backupDate": {
+          "$date": {
+            "$numberLong": "1671308303673"
+          }
+        },
+        "_id": {
+          "$oid": "639e240fe0a67328b49ece52"
+        }
+      },
+      {
+        "backupConfigId": {
+          "$oid": "639e29cde0a67328b49ecf34"
+        },
+        "backupDate": {
+          "$date": {
+            "$numberLong": "1671309773713"
+          }
+        },
+        "_id": {
+          "$oid": "639e29cde0a67328b49ecf36"
+        }
+      },
+      {
+        "backupConfigId": {
+          "$oid": "639f7853e0a67328b49ed52f"
+        },
+        "backupDate": {
+          "$date": {
+            "$numberLong": "1671395411320"
+          }
+        },
+        "_id": {
+          "$oid": "639f7853e0a67328b49ed531"
+        }
+      },
+      {
+        "backupConfigId": {
+          "$oid": "63a0c9cf38b63edf57cc8659"
+        },
+        "backupDate": {
+          "$date": {
+            "$numberLong": "1671481807134"
+          }
+        },
+        "_id": {
+          "$oid": "63a0c9cf38b63edf57cc865b"
+        }
+      },
+      {
+        "backupConfigId": {
+          "$oid": "63a261abccfcd60f6a22859c"
+        },
+        "backupDate": {
+          "$date": {
+            "$numberLong": "1671586219082"
+          }
+        },
+        "_id": {
+          "$oid": "63a261abccfcd60f6a22859e"
+        }
+      },
+      {
+        "backupConfigId": {
+          "$oid": "63a3b324d7810e5318be4990"
+        },
+        "backupDate": {
+          "$date": {
+            "$numberLong": "1671672613001"
+          }
+        },
+        "_id": {
+          "$oid": "63a3b325d7810e5318be4992"
+        }
+      }
+    ],
+    "ios": "flash0:/vios-adventerprisek9-m",
+    "lastAccessAttempt": {
+      "$date": {
+        "$numberLong": "1670229465643"
+      }
+    },
+    "lastAccessSuccessful": {
+      "$date": {
+        "$numberLong": "1670229465643"
+      }
+    },
+    "lastSuccessfulComplianceCheck": {
+      "$date": {
+        "$numberLong": "1671650200288"
+      }
+    },
+    "complianceReportId": {
+      "$oid": "639d7d28d05733333b110643"
+    }
+  },{
+    "_id": {
+      "$oid": "62619204cff4c9e1a417d769"
+    },
+    "model": "IOSv",
+    "device_family": "Cisco-IOS",
+    "softwareVersion": "15.7(3)M3",
+    "serialNo": "927QJZ362P9RKSIZ7FE4A",
+    "assetTag": "function String() { [native code] }",
+    "name": "function String() { [native code] }",
+    "hostname": "R2",
+    "ip_address": "10.16.16.152",
+    "status": "Unreachable (at 12:45:10)",
+    "systemMemory": " with 460017K/62464K",
+    "site": "DLL",
+    "location": "Bangalore",
+    "username": "cisco",
+    "password": "Y2lzY28=",
+    "mode": "netmiko",
+    "__v": 0,
+    "vendorId": {
+      "$oid": "6268fb7fe5d7fc49ff48bb00"
+    },
+    "customerId": {
+      "$oid": "629a1958ee726b3aee6e390a"
+    },
+    "region": "EU",
+    "configBackups": [
+      {
+        "backupConfigId": {
+          "$oid": "636bf910bf045fe326c8cc22"
+        },
+        "backupDate": {
+          "$date": {
+            "$numberLong": "1668020496661"
+          }
+        },
+        "_id": {
+          "$oid": "636bf910bf045fe326c8cc24"
+        }
+      },
+      {
+        "backupConfigId": {
+          "$oid": "636defdaf2be041a88dbc286"
+        },
+        "backupDate": {
+          "$date": {
+            "$numberLong": "1668149210824"
+          }
+        },
+        "_id": {
+          "$oid": "636defdaf2be041a88dbc288"
+        }
+      },
+      {
+        "backupConfigId": {
+          "$oid": "6371d3eff2be041a88dbc37a"
+        },
+        "backupDate": {
+          "$date": {
+            "$numberLong": "1668404207504"
+          }
+        },
+        "_id": {
+          "$oid": "6371d3eff2be041a88dbc37c"
+        }
+      },
+      {
+        "backupConfigId": {
+          "$oid": "63732e4a77fedc4b2c0f077c"
+        },
+        "backupDate": {
+          "$date": {
+            "$numberLong": "1668492874580"
+          }
+        },
+        "_id": {
+          "$oid": "63732e4a77fedc4b2c0f077e"
+        }
+      },
+      {
+        "backupConfigId": {
+          "$oid": "6376330d910070db8b712f9e"
+        },
+        "backupDate": {
+          "$date": {
+            "$numberLong": "1668690701203"
+          }
+        },
+        "_id": {
+          "$oid": "6376330d910070db8b712fa0"
+        }
+      },
+      {
+        "backupConfigId": {
+          "$oid": "63809b019ccd69aeb3929e52"
+        },
+        "backupDate": {
+          "$date": {
+            "$numberLong": "1669372673763"
+          }
+        },
+        "_id": {
+          "$oid": "63809b019ccd69aeb3929e54"
+        }
+      },
+      {
+        "backupConfigId": {
+          "$oid": "6384709472fb0a920e73d618"
+        },
+        "backupDate": {
+          "$date": {
+            "$numberLong": "1669623956770"
+          }
+        },
+        "_id": {
+          "$oid": "6384709472fb0a920e73d61a"
+        }
+      },
+      {
+        "backupConfigId": {
+          "$oid": "63865fc5d39a115194f53c34"
+        },
+        "backupDate": {
+          "$date": {
+            "$numberLong": "1669750725807"
+          }
+        },
+        "_id": {
+          "$oid": "63865fc5d39a115194f53c36"
+        }
+      },
+      {
+        "backupConfigId": {
+          "$oid": "6396d543839adcf4f14b5ae3"
+        },
+        "backupDate": {
+          "$date": {
+            "$numberLong": "1670829379607"
+          }
+        },
+        "_id": {
+          "$oid": "6396d543839adcf4f14b5ae5"
+        }
+      },
+      {
+        "backupConfigId": {
+          "$oid": "639e2413e0a67328b49ece5d"
+        },
+        "backupDate": {
+          "$date": {
+            "$numberLong": "1671308307742"
+          }
+        },
+        "_id": {
+          "$oid": "639e2413e0a67328b49ece5f"
+        }
+      },
+      {
+        "backupConfigId": {
+          "$oid": "639e29d5e0a67328b49ecf42"
+        },
+        "backupDate": {
+          "$date": {
+            "$numberLong": "1671309781267"
+          }
+        },
+        "_id": {
+          "$oid": "639e29d5e0a67328b49ecf44"
+        }
+      },
+      {
+        "backupConfigId": {
+          "$oid": "639f7856e0a67328b49ed559"
+        },
+        "backupDate": {
+          "$date": {
+            "$numberLong": "1671395414579"
+          }
+        },
+        "_id": {
+          "$oid": "639f7856e0a67328b49ed55b"
+        }
+      },
+      {
+        "backupConfigId": {
+          "$oid": "63a0c9d238b63edf57cc8684"
+        },
+        "backupDate": {
+          "$date": {
+            "$numberLong": "1671481810711"
+          }
+        },
+        "_id": {
+          "$oid": "63a0c9d238b63edf57cc8686"
+        }
+      },
+      {
+        "backupConfigId": {
+          "$oid": "63a261aeccfcd60f6a2285ad"
+        },
+        "backupDate": {
+          "$date": {
+            "$numberLong": "1671586222735"
+          }
+        },
+        "_id": {
+          "$oid": "63a261aeccfcd60f6a2285af"
+        }
+      },
+      {
+        "backupConfigId": {
+          "$oid": "63a3b329d7810e5318be49a2"
+        },
+        "backupDate": {
+          "$date": {
+            "$numberLong": "1671672617151"
+          }
+        },
+        "_id": {
+          "$oid": "63a3b329d7810e5318be49a4"
+        }
+      }
+    ],
+    "ios": "flash0:/vios-adventerprisek9-m",
+    "lastAccessAttempt": {
+      "$date": {
+        "$numberLong": "1670229466382"
+      }
+    },
+    "lastAccessSuccessful": {
+      "$date": {
+        "$numberLong": "1670229466382"
+      }
+    },
+    "complianceReportId": {
+      "$oid": "639e1a42d05733333bb6a48e"
+    },
+    "lastSuccessfulComplianceCheck": {
+      "$date": {
+        "$numberLong": "1671650200647"
+      }
+    }
+  },{
+    "_id": {
+      "$oid": "629f00a7f18b5b657a4631bb"
+    },
+    "model": "model",
+    "device_family": "Cisco-IOS",
+    "softwareVersion": "",
+    "serialNo": "xxxxxxxxxxxx",
+    "assetTag": "Bengaluru",
+    "name": "Device",
+    "hostname": "ASA01",
+    "ip_address": "10.16.16.79",
+    "status": "Unreachable (at 12:46:06)",
+    "systemMemory": "129.0M",
+    "site": "DLL",
+    "location": "Bangalore",
+    "username": "cisco",
+    "password": "Y2lzY28=",
+    "mode": "netmiko",
+    "__v": 0,
+    "vendorId": {
+      "$oid": "6268fb7fe5d7fc49ff48bb01"
+    },
+    "customerId": {
+      "$oid": "629a1958ee726b3aee6e390a"
+    },
+    "region": "EU",
+    "configBackups": [
+      {
+        "backupConfigId": {
+          "$oid": "636bf95cbf045fe326c8cc26"
+        },
+        "backupDate": {
+          "$date": {
+            "$numberLong": "1668020572416"
+          }
+        },
+        "_id": {
+          "$oid": "636bf95cbf045fe326c8cc28"
+        }
+      },
+      {
+        "backupConfigId": {
+          "$oid": "636defb5f2be041a88dbc26d"
+        },
+        "backupDate": {
+          "$date": {
+            "$numberLong": "1668149173320"
+          }
+        },
+        "_id": {
+          "$oid": "636defb5f2be041a88dbc26f"
+        }
+      },
+      {
+        "backupConfigId": {
+          "$oid": "6371d3f0f2be041a88dbc380"
+        },
+        "backupDate": {
+          "$date": {
+            "$numberLong": "1668404208174"
+          }
+        },
+        "_id": {
+          "$oid": "6371d3f0f2be041a88dbc382"
+        }
+      },
+      {
+        "backupConfigId": {
+          "$oid": "63732e4b77fedc4b2c0f0783"
+        },
+        "backupDate": {
+          "$date": {
+            "$numberLong": "1668492875598"
+          }
+        },
+        "_id": {
+          "$oid": "63732e4b77fedc4b2c0f0785"
+        }
+      },
+      {
+        "backupConfigId": {
+          "$oid": "6376330d910070db8b712fa6"
+        },
+        "backupDate": {
+          "$date": {
+            "$numberLong": "1668690702045"
+          }
+        },
+        "_id": {
+          "$oid": "6376330e910070db8b712fa8"
+        }
+      },
+      {
+        "backupConfigId": {
+          "$oid": "63809b029ccd69aeb3929e5b"
+        },
+        "backupDate": {
+          "$date": {
+            "$numberLong": "1669372674544"
+          }
+        },
+        "_id": {
+          "$oid": "63809b029ccd69aeb3929e5d"
+        }
+      },
+      {
+        "backupConfigId": {
+          "$oid": "6384709572fb0a920e73d622"
+        },
+        "backupDate": {
+          "$date": {
+            "$numberLong": "1669623957958"
+          }
+        },
+        "_id": {
+          "$oid": "6384709572fb0a920e73d624"
+        }
+      },
+      {
+        "backupConfigId": {
+          "$oid": "63865fc7d39a115194f53c3f"
+        },
+        "backupDate": {
+          "$date": {
+            "$numberLong": "1669750727055"
+          }
+        },
+        "_id": {
+          "$oid": "63865fc7d39a115194f53c41"
+        }
+      },
+      {
+        "backupConfigId": {
+          "$oid": "6396d544839adcf4f14b5aef"
+        },
+        "backupDate": {
+          "$date": {
+            "$numberLong": "1670829380475"
+          }
+        },
+        "_id": {
+          "$oid": "6396d544839adcf4f14b5af1"
+        }
+      },
+      {
+        "backupConfigId": {
+          "$oid": "639e2415e0a67328b49ece6a"
+        },
+        "backupDate": {
+          "$date": {
+            "$numberLong": "1671308309684"
+          }
+        },
+        "_id": {
+          "$oid": "639e2415e0a67328b49ece6c"
+        }
+      },
+      {
+        "backupConfigId": {
+          "$oid": "639e29d6e0a67328b49ecf50"
+        },
+        "backupDate": {
+          "$date": {
+            "$numberLong": "1671309782660"
+          }
+        },
+        "_id": {
+          "$oid": "639e29d6e0a67328b49ecf52"
+        }
+      },
+      {
+        "backupConfigId": {
+          "$oid": "639f7857e0a67328b49ed568"
+        },
+        "backupDate": {
+          "$date": {
+            "$numberLong": "1671395415528"
+          }
+        },
+        "_id": {
+          "$oid": "639f7857e0a67328b49ed56a"
+        }
+      },
+      {
+        "backupConfigId": {
+          "$oid": "63a0c9d338b63edf57cc8694"
+        },
+        "backupDate": {
+          "$date": {
+            "$numberLong": "1671481811578"
+          }
+        },
+        "_id": {
+          "$oid": "63a0c9d338b63edf57cc8696"
+        }
+      },
+      {
+        "backupConfigId": {
+          "$oid": "63a261afccfcd60f6a2285be"
+        },
+        "backupDate": {
+          "$date": {
+            "$numberLong": "1671586223696"
+          }
+        },
+        "_id": {
+          "$oid": "63a261afccfcd60f6a2285c0"
+        }
+      },
+      {
+        "backupConfigId": {
+          "$oid": "63a3b32ad7810e5318be49b4"
+        },
+        "backupDate": {
+          "$date": {
+            "$numberLong": "1671672618192"
+          }
+        },
+        "_id": {
+          "$oid": "63a3b32ad7810e5318be49b6"
+        }
+      }
+    ],
+    "lastAccessAttempt": {
+      "$date": {
+        "$numberLong": "1670229569134"
+      }
+    }
+  },{
+    "_id": {
+      "$oid": "62a32b6c22f9e0dbe8165a69"
+    },
+    "model": "FortiGate 60F",
+    "device_family": "Fortinet",
+    "softwareVersion": "v6.4.0 build1579 (GA)",
+    "serialNo": "FGVMEVUNCYH5V9F4",
+    "assetTag": "Bengaluru",
+    "name": "Device",
+    "hostname": "FGT-1",
+    "ip_address": "10.16.16.75",
+    "status": "Unreachable (at 12:45:54)",
+    "systemMemory": "",
+    "site": "DLL",
+    "location": "Bangalore",
+    "username": "admin",
+    "password": "YWRtaW4=",
+    "mode": "netmiko",
+    "__v": 0,
+    "vendorId": {
+      "$oid": "6268fb7fe5d7fc49ff48bb03"
+    },
+    "customerId": {
+      "$oid": "629a1958ee726b3aee6e390a"
+    },
+    "region": "EU",
+    "lastAccessAttempt": {
+      "$date": {
+        "$numberLong": "1670229468307"
+      }
+    }
+  },{
+    "_id": {
+      "$oid": "62ea181d47fb39890dc0aa88"
+    },
+    "model": "model",
+    "device_family": "Versa",
+    "softwareVersion": "21.2.2 (GA)",
+    "serialNo": "xxxxxxxx",
+    "assetTag": "Bengaluru",
+    "name": "Device",
+    "hostname": "R1-SING-SDWAN",
+    "ip_address": "10.192.254.95",
+    "status": "Unreachable (at 12:46:30)",
+    "systemMemory": "129.0M",
+    "site": "DLL",
+    "location": "Bangalore",
+    "username": "admin",
+    "password": "dmVyc2ExMjM=",
+    "mode": "netmiko",
+    "__v": 0,
+    "vendorId": {
+      "$oid": "62ea15f547fb39890dc0aa85"
+    },
+    "customerId": {
+      "$oid": "629a1958ee726b3aee6e390a"
+    },
+    "region": "EU",
+    "lastAccessAttempt": {
+      "$date": {
+        "$numberLong": "1670229475107"
+      }
+    }
+  },{
+    "_id": {
+      "$oid": "62ea18cd47fb39890dc0aa89"
+    },
+    "model": "model",
+    "device_family": "Versa",
+    "softwareVersion": "21.2.2 (GA)",
+    "serialNo": "xxxxxxxx",
+    "assetTag": "Bengaluru",
+    "name": "Device",
+    "hostname": "R2-SING-SDWAN",
+    "ip_address": "10.192.254.96",
+    "status": "Unreachable (at 12:46:34)",
+    "systemMemory": "129.0M",
+    "site": "DLL",
+    "location": "Bangalore",
+    "username": "admin",
+    "password": "dmVyc2ExMjM=",
+    "mode": "netmiko",
+    "__v": 0,
+    "vendorId": {
+      "$oid": "62ea15f547fb39890dc0aa85"
+    },
+    "customerId": {
+      "$oid": "629a1958ee726b3aee6e390a"
+    },
+    "region": "EU",
+    "lastAccessAttempt": {
+      "$date": {
+        "$numberLong": "1670229475643"
+      }
+    }
+  },{
+    "_id": {
+      "$oid": "62ea18e447fb39890dc0aa8a"
+    },
+    "model": "model",
+    "device_family": "Versa",
+    "softwareVersion": "21.2.2 (GA)",
+    "serialNo": "xxxxxxxx",
+    "assetTag": "Bengaluru",
+    "name": "Device",
+    "hostname": "R1-MANC-SDWAN-97",
+    "ip_address": "10.192.254.97",
+    "status": "Unreachable (at 12:46:38)",
+    "systemMemory": "129.0M",
+    "site": "DLL",
+    "location": "Bangalore",
+    "username": "admin",
+    "password": "dmVyc2ExMjM=",
+    "mode": "netmiko",
+    "__v": 0,
+    "vendorId": {
+      "$oid": "62ea15f547fb39890dc0aa85"
+    },
+    "customerId": {
+      "$oid": "629a1958ee726b3aee6e390a"
+    },
+    "region": "EU",
+    "lastAccessAttempt": {
+      "$date": {
+        "$numberLong": "1670229475974"
+      }
+    }
+  },{
+    "_id": {
+      "$oid": "62ea18fe47fb39890dc0aa8b"
+    },
+    "model": "model",
+    "device_family": "Versa",
+    "softwareVersion": "21.2.2 (GA)",
+    "serialNo": "xxxxxxxx",
+    "assetTag": "Bengaluru",
+    "name": "Device",
+    "hostname": "R1-BEN-SDWAN-98",
+    "ip_address": "10.192.254.98",
+    "status": "Unreachable (at 12:46:42)",
+    "systemMemory": "129.0M",
+    "site": "DLL",
+    "location": "Bangalore",
+    "username": "admin",
+    "password": "dmVyc2ExMjM=",
+    "mode": "netmiko",
+    "__v": 0,
+    "vendorId": {
+      "$oid": "62ea15f547fb39890dc0aa85"
+    },
+    "customerId": {
+      "$oid": "629a1958ee726b3aee6e390a"
+    },
+    "region": "EU",
+    "lastAccessAttempt": {
+      "$date": {
+        "$numberLong": "1670229476217"
+      }
+    }
+  },{
+    "_id": {
+      "$oid": "62ea191447fb39890dc0aa8c"
+    },
+    "model": "model",
+    "device_family": "Versa",
+    "softwareVersion": "21.2.2 (GA)",
+    "serialNo": "xxxxxxxx",
+    "assetTag": "Bengaluru",
+    "name": "Device",
+    "hostname": "R1-New-York-SDWAN-99",
+    "ip_address": "10.192.254.99",
+    "status": "Unreachable (at 12:46:46)",
+    "systemMemory": "129.0M",
+    "site": "DLL",
+    "location": "Bangalore",
+    "username": "admin",
+    "password": "dmVyc2ExMjM=",
+    "mode": "netmiko",
+    "__v": 0,
+    "vendorId": {
+      "$oid": "62ea15f547fb39890dc0aa85"
+    },
+    "customerId": {
+      "$oid": "629a1958ee726b3aee6e390a"
+    },
+    "region": "EU",
+    "lastAccessAttempt": {
+      "$date": {
+        "$numberLong": "1670229476387"
+      }
+    }
+  },{
+    "_id": {
+      "$oid": "634541a5df0ced6898370f3a"
+    },
+    "vendorId": {
+      "$oid": "6268fb7fe5d7fc49ff48bb03"
+    },
+    "customerId": {
+      "$oid": "629a1958ee726b3aee6e390a"
+    },
+    "model": "FortiGate 60F",
+    "device_family": "Fortinet",
+    "softwareVersion": "v7.0.5",
+    "serialNo": "FGVM2VTM22003515",
+    "assetTag": "Bengaluru",
+    "name": "Device",
+    "hostname": "FGT-SDWAN-BANGALORE-198",
+    "ip_address": "10.192.254.198",
+    "status": "Unreachable (at 12:46:22)",
+    "systemMemory": null,
+    "site": "DLL",
+    "location": "Bangalore",
+    "username": "admin",
+    "password": "YWRtaW4=",
+    "mode": "netmiko",
+    "__v": 0,
+    "region": "EU",
+    "lastAccessAttempt": {
+      "$date": {
+        "$numberLong": "1670229468567"
+      }
+    }
+  },{
+    "_id": {
+      "$oid": "634541a5df0ced6898370f38"
+    },
+    "vendorId": {
+      "$oid": "6268fb7fe5d7fc49ff48bb03"
+    },
+    "customerId": {
+      "$oid": "629a1958ee726b3aee6e390a"
+    },
+    "model": "FortiGate 60F",
+    "device_family": "Fortinet",
+    "softwareVersion": "v7.0.5",
+    "serialNo": "FGVM2VTM22003516",
+    "assetTag": "Bengaluru",
+    "name": "Device",
+    "hostname": "FGT-SDWAN-NEW-YORK-199",
+    "ip_address": "10.192.254.199",
+    "status": "Unreachable (at 12:46:26)",
+    "systemMemory": null,
+    "site": "DLL",
+    "location": "Bangalore",
+    "username": "admin",
+    "password": "YWRtaW4=",
+    "mode": "netmiko",
+    "__v": 0,
+    "region": "EU",
+    "lastAccessAttempt": {
+      "$date": {
+        "$numberLong": "1670229468888"
+      }
+    }
+  },{
+    "_id": {
+      "$oid": "634541a5df0ced6898370f3c"
+    },
+    "vendorId": {
+      "$oid": "6268fb7fe5d7fc49ff48bb03"
+    },
+    "customerId": {
+      "$oid": "629a1958ee726b3aee6e390a"
+    },
+    "model": "FortiGate 60F",
+    "device_family": "Fortinet",
+    "softwareVersion": "v7.0.5",
+    "serialNo": "FGVM2VTM22003514",
+    "assetTag": "Bengaluru",
+    "name": "Device",
+    "hostname": "FGT-SDWAN-MANCHESTER-197",
+    "ip_address": "10.192.254.197",
+    "status": "Unreachable (at 12:46:18)",
+    "systemMemory": "129.0M",
+    "site": "DLL",
+    "location": "Bangalore",
+    "username": "admin",
+    "password": "YWRtaW4=",
+    "mode": "netmiko",
+    "__v": 0,
+    "region": "EU",
+    "lastAccessAttempt": {
+      "$date": {
+        "$numberLong": "1670229469066"
+      }
+    }
+  },{
+    "_id": {
+      "$oid": "634541a5df0ced6898370f3e"
+    },
+    "vendorId": {
+      "$oid": "6268fb7fe5d7fc49ff48bb03"
+    },
+    "customerId": {
+      "$oid": "629a1958ee726b3aee6e390a"
+    },
+    "model": "FortiGate 60F",
+    "device_family": "Fortinet",
+    "softwareVersion": "v7.0.5",
+    "serialNo": "FGVM2VTM22003513",
+    "assetTag": "Bengaluru",
+    "name": "Device",
+    "hostname": "FGT-SDWAN-SINGAPORE-195",
+    "ip_address": "10.192.254.195",
+    "status": "Unreachable (at 12:46:14)",
+    "systemMemory": "129.0M",
+    "site": "DLL",
+    "location": "Bangalore",
+    "username": "admin",
+    "password": "YWRtaW4=",
+    "mode": "netmiko",
+    "__v": 0,
+    "region": "EU",
+    "lastAccessAttempt": {
+      "$date": {
+        "$numberLong": "1670229469332"
+      }
+    }
+  },{
+    "_id": {
+      "$oid": "638dcc02d0883882b6f5796a"
+    },
+    "model": "IOSv",
+    "device_family": "Cisco-IOS",
+    "softwareVersion": "15.7(3)M3",
+    "serialNo": "9D7OCGUMH5L6KNFMQ4K8U",
+    "assetTag": "function String() { [native code] }",
+    "name": "function String() { [native code] }",
+    "hostname": "R4",
+    "ip_address": "10.16.16.154",
+    "status": "Unreachable (at 12:45:14)",
+    "systemMemory": " with 460017K/62464K",
+    "site": "DLL",
+    "location": "Bangalore",
+    "username": "cisco",
+    "password": "Y2lzY28=",
+    "mode": "ios",
+    "__v": 0,
+    "vendorId": {
+      "$oid": "6268fb7fe5d7fc49ff48bb00"
+    },
+    "customerId": {
+      "$oid": "629a1958ee726b3aee6e390a"
+    },
+    "region": "EU",
+    "configBackups": [],
+    "ios": "flash0:/vios-adventerprisek9-m",
+    "lastAccessAttempt": {
+      "$date": {
+        "$numberLong": "1670229510934"
+      }
+    },
+    "lastAccessSuccessful": {
+      "$date": {
+        "$numberLong": "1670229510934"
+      }
+    },
+    "complianceReportId": {
+      "$oid": "63a35ba7dad016566cbf7791"
+    },
+    "lastSuccessfulComplianceCheck": {
+      "$date": {
+        "$numberLong": "1671650199885"
+      }
+    }
+  }]

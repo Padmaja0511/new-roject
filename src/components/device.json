@@ -1,0 +1,25 @@
+[{
+    "count" : 2,
+    "percentage": "7.40",
+    "_id": "HP"
+},
+{
+    "count": 5,
+    "percentage": "18.5",
+    "_id": "Versa"
+},
+{
+    "count": 11,
+    "percentage": "40.7",
+    "_id": "Cisco"
+},
+{ 
+    "count": 6,
+    "percentage": "22.2",
+    "_id": "Fortinet"
+},
+{
+    "count": 4,
+    "percentage": "14.8",
+    "_id": "Viptela"
+}]

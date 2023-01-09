@@ -1,0 +1,15 @@
+[{
+    "count": 5,
+    "percentage": "18.5",
+    "_id": "Switches"
+},
+{
+    "count": 15,
+    "percentage": "55.5",
+    "_id": "Router"
+},
+{
+    "count": 5,
+    "percentage": "57",
+    "_id": "Firewall"
+}]
